@@ -1,14 +1,14 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "projects"
+permalink: /projects/
 author_profile: true
 redirect_from:
-  - /resume
+  - /projects
 ---
 
 {% include base_path %}
 
-Download CV here
+About projects
 ======
 * Click here to download Swpanil's CV
