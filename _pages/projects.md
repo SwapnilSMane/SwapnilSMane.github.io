@@ -12,3 +12,143 @@ redirect_from:
 About projects
 ======
 * Click here to download Swpanil's CV
+<h1>Projects</h1>
+
+<ul>
+  <li>
+    <p>
+      <strong
+        >KNOWLEDGE DISTILLATION : AGGRESSION DETECTION USING MINI BERT</strong
+      >
+    </p>
+    <ul>
+      <li>
+        The knowledge is transferred from the BERT base to mini BERT (3-layers)
+        using knowledge distillation, which is 7.5x smaller and 9.4x faster on
+        inference.
+      </li>
+      <li>
+        <strong>Knowledge Distillation</strong>,
+        <strong>Aggression detection</strong>, <strong>BERT</strong>,
+        <strong>NLP</strong>
+      </li>
+    </ul>
+  </li>
+  <li>
+    <p>
+      <strong
+        >KNOWLDGENET RELATIONSHIP CLASSIFICATION USING A PRE-TRAINED
+        MODE</strong
+      >
+    </p>
+    <ul>
+      <li>
+        Relation classifier with new information on entity embeddings utilizing
+        Pre-trained BERT. Over the state-of-the-art strategy, this suggested
+        model achieves significant performance on the KnowldgeNet relational
+        dataset.
+      </li>
+      <li>
+        <strong>Relationship classification</strong>,
+        <strong>Entity Information </strong>,
+        <strong>NLP</strong>
+      </li>
+    </ul>
+  </li>
+  <li>
+    <p>
+      <strong
+        >ANALYSIS OF AUTHOR’S ABUSIVE BEHAVIOUR COMMUNITY ON TWITTER</strong
+      >
+    </p>
+    <ul>
+      <li>
+        This project briefly analyzes the author’s Abusive Behavior Network
+        (ABN) by comparing it to the Normal Behavior Network (NBN).
+      </li>
+      <li>
+        For analysis, the report uses social network analysis measures and
+        effectively concludes that ABN has a densified network, information has
+        spread rapidly, and much more. It also identifies the topics the author
+        has been abusive on. This study will undoubtedly aid in distinguishing
+        between the author’s abusive and normal communities.
+      </li>
+      <li>
+        <strong>Author profiling</strong>, <strong>Hate speech</strong>,
+        <strong>Community analysis</strong>,
+        <strong>SNA</strong>
+      </li>
+    </ul>
+  </li>
+  <li>
+    <p>
+      <strong
+        >CONTEXTUAL JOURNAL RECOMMENDATION AND QUERY SEARCH ENGINE USING WORD
+        EMBEDDING</strong
+      >
+    </p>
+    <ul>
+      <li>
+        The proposed methodology will aid aspiring researchers in determining
+        which journal to submit their work to for publication.
+      </li>
+      <li>
+        <strong>Context vector</strong>, <strong>Recommendation system</strong>,
+        <strong>NLP</strong>
+      </li>
+    </ul>
+  </li>
+  <li>
+    <p><strong>POLARITY BASED SARCASM DETECTION USING SEMIGRAPH</strong></p>
+    <ul>
+      <li>
+        A variation of the semigraph is suggested in the pattern-relatedness of
+        the text document. The proposed method is to obtain the sarcastic and
+        non-sarcastic polarity scores of a document using a semigraph.
+      </li>
+      <li>
+        <strong>Sarcasm detection</strong>, <strong>Sentiment analysis</strong>,
+        <strong>Semigraph</strong> , <strong>NLP</strong>
+      </li>
+      <li></li>
+    </ul>
+  </li>
+  <li>
+    <p>
+      <strong
+        >THEMATIC CONTEXT VECTOR ASSOCIATION BASED ON EVENT UNCERTAINTY FOR
+        TWITTER</strong
+      >
+    </p>
+    <ul>
+      <li></li>
+      <li></li>
+      <li></li>
+    </ul>
+  </li>
+  <li>
+    <p>
+      <strong
+        >IDENTIFICATION OF CERTAIN ENTITIES OF EACH EVENTS FROM TWITTER</strong
+      >
+    </p>
+    <ul>
+      <li></li>
+      <li></li>
+      <li></li>
+    </ul>
+  </li>
+  <li>
+    <p>
+      <strong
+        >EXPLORING TOPICS DISCUSSED IN WHATSAPP WITH SENTIMENT AND STATISTICAL
+        ANALYSIS</strong
+      >
+    </p>
+    <ul>
+      <li></li>
+      <li></li>
+      <li></li>
+    </ul>
+  </li>
+</ul>
