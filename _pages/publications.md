@@ -26,7 +26,7 @@ author_profile: true
       pp.150-157, August 2021,
     </p>
     <p>
-      PDF Available
+      Paper Available
       <a
         href="https://www.ijcrt.org/papers/IJCRTE020026.pdf"
         style="text-decoration: none"
