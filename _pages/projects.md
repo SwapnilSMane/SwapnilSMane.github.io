@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "projects"
+title: "Projects"
 permalink: /projects/
 author_profile: true
 redirect_from:
@@ -8,8 +8,6 @@ redirect_from:
 ---
 
 {% include base_path %}
-
-<h1>Projects</h1>
 
 <ul>
   <li>
@@ -25,9 +23,9 @@ redirect_from:
         inference.
       </li>
       <li>
-        <i>Knowledge Distillation</i>,
-        <i>Aggression detection</i>, <i>BERT</i>,
-        <i>NLP</i>
+        <strong><i>Knowledge Distillation</i></strong>,
+        <strong><i>Aggression detection</i></strong>, <strong><i>BERT</i></strong>,
+        <strong><i>NLP</i></strong>
       </li>
     </ul>
   </li>
@@ -46,9 +44,9 @@ redirect_from:
         dataset.
       </li>
       <li>
-        <strong>Relationship classification</strong>,
-        <strong>Entity Information </strong>,
-        <strong>NLP</strong>
+        <strong><i>Relationship classification</i></strong>,
+        <strong><i>Entity Information </i></strong>,
+        <strong><i>NLP</i></strong>
       </li>
     </ul>
   </li>
@@ -71,6 +69,11 @@ redirect_from:
         between the author’s abusive and normal communities.
       </li>
       <li>
+        <strong><i>Author profiling</i></strong>, <strong><i>Hate speech</i></strong>,
+        <strong><i>Community analysis</i></strong>,
+        <strong><i>SNA</i></strong>
+      </li>
+      <li>
         Code Available
         <a
           href="https://github.com/SwapnilSMane/SNA-Project"
@@ -78,12 +81,6 @@ redirect_from:
           ><strong>HERE</strong></a
         >
       </li>
-      <li>
-        <strong>Author profiling</strong>, <strong>Hate speech</strong>,
-        <strong>Community analysis</strong>,
-        <strong>SNA</strong>
-      </li>
-
     </ul>
   </li>
   <li>
@@ -99,12 +96,11 @@ redirect_from:
         which journal to submit their work to for publication.
       </li>
       <li>
-        <strong>Context vector</strong>, <strong>Recommendation system</strong>,
-        <strong>NLP</strong>
+        <strong><i>Context vector</i></strong>, <strong><i>Recommendation system</i></strong>,
+        <strong><i>NLP</i></strong>
       </li>
     </ul>
   </li>
-  
   <li>
     <p><strong>POLARITY BASED SARCASM DETECTION USING SEMIGRAPH</strong></p>
     <ul>
@@ -114,10 +110,11 @@ redirect_from:
         non-sarcastic polarity scores of a document using a semigraph.
       </li>
       <li>
-        <strong>Sarcasm detection</strong>, <strong>Sentiment analysis</strong>,
-        <strong>Semigraph</strong> , <strong>NLP</strong>
+        <strong><i>Sarcasm detection</i></strong>, <strong><i>Sentiment analysis</i></strong>,
+        <strong><i>Semigraph</i></strong> , <strong><i></i>NLP</i></strong>
       </li>
-      </ul>
+      <li></li>
+    </ul>
   </li>
   <li>
     <p>
@@ -146,16 +143,16 @@ redirect_from:
         bullying, sarcasm detection, figurative language detection etc
       </li>
       <li>
+        <strong><i>Context vector</i></strong>, <strong><i>Twitter</i></strong>,
+        <strong><i>NLP</i></strong>
+      </li>
+      <li>
         Code Available
         <a
           href="https://github.com/SwapnilSMane/Thematic-context-vector-association-based-on-event-uncertainty-for-twitter-"
           style="text-decoration: none"
           ><strong>HERE</strong></a
         >
-      </li>
-       <li>
-        <i>Context vector</i>, <i>Twitter</i>,
-        <i>NLP</i>
       </li>
     </ul>
   </li>
@@ -173,6 +170,8 @@ redirect_from:
         the news dataset created using Twitter data and proves to be useful for
         identification of important events and entities from the document.
       </li>
+
+      <li><strong><i>Twitter events</i></strong>, <strong><i>NLP</i></strong></li>
       <li>
         Code Available
         <a
@@ -181,8 +180,6 @@ redirect_from:
           ><strong>HERE</strong></a
         >
       </li>
-      <li><strong>Twitter events</strong>, <strong>NLP</strong></li>
- 
     </ul>
   </li>
 
@@ -201,6 +198,10 @@ redirect_from:
         identification of important events and entities from the document.
       </li>
       <li>
+        <strong><i>Statistical analysis</i></strong>,
+        <strong><i>Sentiment analysis</i></strong>, <strong><i>Topic modeling</i></strong>
+      </li>
+      <li>
         Code Available
         <a
           href="https://github.com/SwapnilSMane/Statistical-Analysis-of-WhatsApp-chat"
@@ -208,11 +209,6 @@ redirect_from:
           ><strong>HERE</strong></a
         >
       </li>
-       <li>
-        <strong>Statistical analysis</strong>,
-        <strong>Sentiment analysis</strong>, <strong>Topic modeling</strong>
-      </li>
-     
     </ul>
   </li>
 </ul>
