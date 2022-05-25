@@ -25,9 +25,9 @@ redirect_from:
         inference.
       </li>
       <li>
-        <strong>Knowledge Distillation</strong>,
-        <strong>Aggression detection</strong>, <strong>BERT</strong>,
-        <strong>NLP</strong>
+        <i>Knowledge Distillation</i>,
+        <i>Aggression detection</i>, <i>BERT</i>,
+        <i>NLP</i>
       </li>
     </ul>
   </li>
@@ -71,11 +71,6 @@ redirect_from:
         between the author’s abusive and normal communities.
       </li>
       <li>
-        <strong>Author profiling</strong>, <strong>Hate speech</strong>,
-        <strong>Community analysis</strong>,
-        <strong>SNA</strong>
-      </li>
-      <li>
         Code Available
         <a
           href="https://github.com/SwapnilSMane/SNA-Project"
@@ -83,6 +78,12 @@ redirect_from:
           ><strong>HERE</strong></a
         >
       </li>
+      <li>
+        <strong>Author profiling</strong>, <strong>Hate speech</strong>,
+        <strong>Community analysis</strong>,
+        <strong>SNA</strong>
+      </li>
+
     </ul>
   </li>
   <li>
@@ -103,6 +104,7 @@ redirect_from:
       </li>
     </ul>
   </li>
+  
   <li>
     <p><strong>POLARITY BASED SARCASM DETECTION USING SEMIGRAPH</strong></p>
     <ul>
@@ -115,8 +117,7 @@ redirect_from:
         <strong>Sarcasm detection</strong>, <strong>Sentiment analysis</strong>,
         <strong>Semigraph</strong> , <strong>NLP</strong>
       </li>
-      <li></li>
-    </ul>
+      </ul>
   </li>
   <li>
     <p>
@@ -145,16 +146,16 @@ redirect_from:
         bullying, sarcasm detection, figurative language detection etc
       </li>
       <li>
-        <strong>Context vector</strong>, <strong>Twitter</strong>,
-        <strong>NLP</strong>
-      </li>
-      <li>
         Code Available
         <a
           href="https://github.com/SwapnilSMane/Thematic-context-vector-association-based-on-event-uncertainty-for-twitter-"
           style="text-decoration: none"
           ><strong>HERE</strong></a
         >
+      </li>
+       <li>
+        <i>Context vector</i>, <i>Twitter</i>,
+        <i>NLP</i>
       </li>
     </ul>
   </li>
@@ -172,8 +173,6 @@ redirect_from:
         the news dataset created using Twitter data and proves to be useful for
         identification of important events and entities from the document.
       </li>
-
-      <li><strong>Twitter events</strong>, <strong>NLP</strong></li>
       <li>
         Code Available
         <a
@@ -182,6 +181,8 @@ redirect_from:
           ><strong>HERE</strong></a
         >
       </li>
+      <li><strong>Twitter events</strong>, <strong>NLP</strong></li>
+ 
     </ul>
   </li>
 
@@ -200,10 +201,6 @@ redirect_from:
         identification of important events and entities from the document.
       </li>
       <li>
-        <strong>Statistical analysis</strong>,
-        <strong>Sentiment analysis</strong>, <strong>Topic modeling</strong>
-      </li>
-      <li>
         Code Available
         <a
           href="https://github.com/SwapnilSMane/Statistical-Analysis-of-WhatsApp-chat"
@@ -211,6 +208,11 @@ redirect_from:
           ><strong>HERE</strong></a
         >
       </li>
+       <li>
+        <strong>Statistical analysis</strong>,
+        <strong>Sentiment analysis</strong>, <strong>Topic modeling</strong>
+      </li>
+     
     </ul>
   </li>
 </ul>
