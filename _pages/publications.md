@@ -10,7 +10,7 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
-
+<h2>Journals</h2>
 <div>
   <div>
     <h2>
@@ -34,7 +34,7 @@ author_profile: true
       >
     </p>
   </div>
-
+<h2>Conferences</h2>
   <div>
     <h2>
       <strong
@@ -48,7 +48,7 @@ author_profile: true
       presented and accepted at the International conference SACAIM, 2021
     </p>
   </div>
-
+<h2>Workshops</h2>
   <div>
     <h2>
       <strong> Python and Android Application Development</strong>
