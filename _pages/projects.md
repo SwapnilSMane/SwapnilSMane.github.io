@@ -111,9 +111,8 @@ redirect_from:
       </li>
       <li>
         <strong><i>Sarcasm detection</i></strong>, <strong><i>Sentiment analysis</i></strong>,
-        <strong><i>Semigraph</i></strong> , <strong><i></i>NLP</i></strong>
+        <strong><i>Semigraph</i></strong> , <strong><i>NLP</i></strong>
       </li>
-      <li></li>
     </ul>
   </li>
   <li>
