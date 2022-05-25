@@ -13,12 +13,12 @@ author_profile: true
 <h2>Journals</h2>
 <div>
   <div>
-    <h2>
+    <h3>
       <strong
         >RESEARCHERS EYE-VIEW OF SARCASM DETECTION IN SOCIAL MEDIA TEXTUAL
         CONTENT</strong
       >
-    </h2>
+    </h3>
     <p>
       Swapnil S. Mane,Vaibhav K. Khatavkar, ”RESEARCHERS EYE-VIEW OF SARCASM
       DETECTION IN SOCIAL MEDIA TEXTUAL CONTENT”, International Journal of
@@ -36,12 +36,12 @@ author_profile: true
   </div>
 <h2>Conferences</h2>
   <div>
-    <h2>
+    <h3>
       <strong
         >Effective feature extraction for intrusion detection systems using
         non-negative matrix factorization and univariate analysis</strong
       >
-    </h2>
+    </h3>
     <p>
       The paper ”Effective feature extraction for intrusion detection systems
       using non-negative matrix factorization and univariate analysis” was
@@ -50,16 +50,16 @@ author_profile: true
   </div>
 <h2>Workshops</h2>
   <div>
-    <h2>
+    <h3>
       <strong> Python and Android Application Development</strong>
-    </h2>
+    </h3>
     <p>A workshop organized by Walchand College of Engineering, Sangli, 2018</p>
   </div>
 
   <div>
-    <h2>
+    <h3>
       <strong>High-Performance Computing</strong>
-    </h2>
+    </h3>
     <p>A workshop organized by Indian Institute of Technology, Bombay, 2016</p>
   </div>
 </div>
