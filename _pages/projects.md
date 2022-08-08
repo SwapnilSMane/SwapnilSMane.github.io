@@ -17,10 +17,10 @@ redirect_from:
       The knowledge is transferred from the BERT base to mini BERT (3-layers)
       using knowledge distillation, which is 7.5x smaller and 9.4x faster on
       inference. <br>
-      <kbd>Knowledge Distillation </kbd> 
-      <kbd>Aggression detection </kbd> 
-      <kbd>BERT </kbd> 
-      <kbd>NLP </kbd>
+      <kbd>Knowledge Distillation</kbd> 
+      <kbd>Aggression detection</kbd> 
+      <kbd>BERT</kbd> 
+      <kbd>NLP</kbd> 
     </p>
   </li>
   
@@ -67,8 +67,10 @@ redirect_from:
         EMBEDDING</strong> <i>[JAN 2022 - APR 2022]</i></p>
     <p>
      The proposed methodology will aid aspiring researchers in determining
-        which journal to submit their work to for publication.</p>
-      <p style="color:brown;"><kbd>Context vector | Recommendation system | NLP<kbd>
+        which journal to submit their work to for publication.<br>
+      <kbd>Context vector</kbd> 
+      <kbd>Recommendation system</kbd> 
+      <kbd>NLP</kbd> 
     </p>
   </li> 
   
@@ -78,8 +80,11 @@ redirect_from:
     <p>
      A variation of the semigraph is suggested in the pattern-relatedness of
         the text document. The proposed method is to obtain the sarcastic and
-        non-sarcastic polarity scores of a document using a semigraph.</p>
-      <p style="color:brown;"><kbd>Sarcasm detection | Sentiment analysis | Semigraph | NLP<kbd>
+        non-sarcastic polarity scores of a document using a semigraph.<br>
+      <kbd>Sarcasm detection</kbd> 
+      <kbd>Sentiment analysis</kbd> 
+      <kbd>Semigraph</kbd> 
+      <kbd>NLP</kbd> 
     </p>
   </li> 
 
@@ -101,8 +106,10 @@ redirect_from:
           href="https://github.com/SwapnilSMane/Thematic-context-vector-association-based-on-event-uncertainty-for-twitter-"
           style="text-decoration: none"
           ><strong>Source code</strong></a
-        >]</p>
-      <p style="color:brown;"><kbd>Context vector | Twitter | NLP<kbd>
+        >]<br>
+      <kbd>Context vector</kbd> 
+      <kbd>Twitter</kbd> 
+      <kbd>NLP</kbd> 
     </p>
   </li> 
 
@@ -117,8 +124,9 @@ redirect_from:
           href="https://github.com/SwapnilSMane/Identification-of-important-events-and-entities-from-the-document"
           style="text-decoration: none"
           ><strong>Source code</strong></a
-        >]</p>
-      <p style="color:brown;"><kbd>Twitter events | NLP<kbd>
+        >]<br>
+      <kbd>Twitter events</kbd> 
+      <kbd>NLP</kbd> 
     </p>
   </li> 
 
@@ -134,8 +142,11 @@ redirect_from:
           href="https://github.com/SwapnilSMane/Statistical-Analysis-of-WhatsApp-chat"
           style="text-decoration: none"
           ><strong>Source code</strong></a
-        >]</p>
-      <p style="color:brown;"><kbd>Statistical analysis | Sentiment analysis | Topic modeling | NLP<kbd>
+        >]<br>
+      <kbd>Statistical analysis</kbd> 
+      <kbd>Sentiment analysis</kbd> 
+      <kbd>Topic modeling</kbd> 
+      <kbd>NLP</kbd> 
     </p>
   </li> 
 </ul>
