@@ -8,7 +8,10 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+div {
+  text-align: justify;
+  text-justify: inter-word;
+}
 <ul>
   <li>
     <p>
@@ -150,3 +153,4 @@ redirect_from:
     </p>
   </li> 
 </ul>
+</div>
