@@ -12,22 +12,14 @@ redirect_from:
 <ul>
   <li>
     <p>
-      <strong
-        >KNOWLEDGE DISTILLATION : AGGRESSION DETECTION USING MINI BERT</strong
-      >
+      <strong>KNOWLEDGE DISTILLATION : AGGRESSION DETECTION USING MINI BERT</strong></p> <p style="text-align:right;"><i>[JAN 2022 - APR 2022]</i></p>
+      <br>
+    <p>
+      The knowledge is transferred from the BERT base to mini BERT (3-layers)
+      using knowledge distillation, which is 7.5x smaller and 9.4x faster on
+      inference.<br>
+      <em>Knowledge Distillation, Aggression detection, BER, NLP</em>
     </p>
-    <ul>
-      <li>
-        The knowledge is transferred from the BERT base to mini BERT (3-layers)
-        using knowledge distillation, which is 7.5x smaller and 9.4x faster on
-        inference.
-      </li>
-      <li>
-        <strong><i>Knowledge Distillation</i></strong>,
-        <strong><i>Aggression detection</i></strong>, <strong><i>BERT</i></strong>,
-        <strong><i>NLP</i></strong>
-      </li>
-    </ul>
   </li>
   <li>
     <p>
