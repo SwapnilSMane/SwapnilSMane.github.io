@@ -16,11 +16,11 @@ redirect_from:
     <p>
       The knowledge is transferred from the BERT base to mini BERT (3-layers)
       using knowledge distillation, which is 7.5x smaller and 9.4x faster on
-      inference.
-      <kbd>Knowledge Distillation </kbd>
+      inference. <br>
+      <kbd>Knowledge Distillation </kbd> 
       <kbd>Aggression detection </kbd> 
-      <kbd>BERT </kbd>
-      <<kbd>NLP </kbd>
+      <kbd>BERT </kbd> 
+      <kbd>NLP </kbd>
     </p>
   </li>
   
@@ -34,8 +34,8 @@ redirect_from:
         Pre-trained BERT. Over the state-of-the-art strategy, this suggested
         model achieves significant performance on the KnowldgeNet relational
         dataset. <br>
-      <kbd>Relationship classification </kbd> 
-      <kbd>Entity Information </kbd>
+      <kbd>Relationship classification</kbd> 
+      <kbd>Entity Information</kbd> 
       <kbd>NLP </kbd>
     </p>
   </li> 
@@ -53,8 +53,11 @@ redirect_from:
           href="https://github.com/SwapnilSMane/SNA-Project"
           style="text-decoration: none"
           ><strong>Source code</strong></a
-        >]</p>
-      <p style="color:brown;"><kbd>Author profiling | Hate speech | Community analysis | SNA<kbd>
+        >] <br>
+      <kbd>Author profiling</kbd> 
+      <kbd>Hate speech</kbd> 
+      <kbd>Community analysis</kbd> 
+      <kbd>SNA</kbd> 
     </p>
   </li> 
 
