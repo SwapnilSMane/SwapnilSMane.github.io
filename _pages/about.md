@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 <p align="justify">
-I am a Ph.D. research scholar in the Computer Science and Engineering department ([CSE](https://cse.iitj.ac.in/)) of the Indian Institute of Technology, Jodhpur ([IITJ](https://www.iitj.ac.in/)). </p>
+I am a Ph.D. research scholar in the Computer Science and Engineering department (<a href="https://cse.iitj.ac.in/" target="_blank">CSE</a>) of the Indian Institute of Technology, Jodhpur <a href="https://www.iitj.ac.in/" target="_blank">IITJ</a>). </p>
 <p align="justify">
 I am working in the Cognitive & Social Analytics Lab (<a href="https://www.csa-iitj.group/" target="_blank">CSA Lab</a>), affiliated with the Computer Science and Engineering department of IIT, Jodhpur. My advisor is <a href="http://home.iitj.ac.in/~suman/" target="_blank">Dr. Suman Kundu</a>. I am also working closely with <a href="https://rajeshsharma.cs.ut.ee/" target="_blank">Dr. Rajesh Sharma</a> from the University of Tartu. </p>
 
