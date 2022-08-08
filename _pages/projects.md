@@ -12,6 +12,7 @@ div {
   text-align: justify;
   text-justify: inter-word;
 }
+<div>
 <ul>
   <li>
     <p>
