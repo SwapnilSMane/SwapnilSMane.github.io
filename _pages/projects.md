@@ -12,69 +12,47 @@ redirect_from:
 <ul>
   <li>
     <p>
-      <strong>KNOWLEDGE DISTILLATION : AGGRESSION DETECTION USING MINI BERT</strong></p> <p style="text-align:right;"><i>[JAN 2022 - APR 2022]</i></p>
-      <br>
+      <strong>KNOWLEDGE DISTILLATION : AGGRESSION DETECTION USING MINI BERT</strong> <i>[JAN 2022 - APR 2022]</i></p>
     <p>
       The knowledge is transferred from the BERT base to mini BERT (3-layers)
       using knowledge distillation, which is 7.5x smaller and 9.4x faster on
-      inference.<br>
-      <em>Knowledge Distillation, Aggression detection, BER, NLP</em>
+      inference.</p>
+      <p style="color:brown;"><kbd>Knowledge Distillation | Aggression detection | BER | NLP<kbd>
     </p>
   </li>
+  
+  
   <li>
     <p>
-      <strong
-        >KNOWLDGENET RELATIONSHIP CLASSIFICATION USING A PRE-TRAINED
-        MODE</strong
-      >
-    </p>
-    <ul>
-      <li>
-        Relation classifier with new information on entity embeddings utilizing
+      <strong>KNOWLDGENET RELATIONSHIP CLASSIFICATION USING A PRE-TRAINED
+        MODEL</strong> <i>[JAN 2022 - APR 2022]</i></p>
+    <p>
+      Relation classifier with new information on entity embeddings utilizing
         Pre-trained BERT. Over the state-of-the-art strategy, this suggested
         model achieves significant performance on the KnowldgeNet relational
-        dataset.
-      </li>
-      <li>
-        <strong><i>Relationship classification</i></strong>,
-        <strong><i>Entity Information </i></strong>,
-        <strong><i>NLP</i></strong>
-      </li>
-    </ul>
-  </li>
-  <li>
-    <p>
-      <strong
-        >ANALYSIS OF AUTHOR’S ABUSIVE BEHAVIOUR COMMUNITY ON TWITTER</strong
-      >
+        dataset.</p>
+      <p style="color:brown;"><kbd>Relationship classification | Entity Information | NLP<kbd>
     </p>
-    <ul>
-      <li>
-        This project briefly analyzes the author’s Abusive Behavior Network
-        (ABN) by comparing it to the Normal Behavior Network (NBN).
-      </li>
-      <li>
-        For analysis, the report uses social network analysis measures and
+  </li> 
+
+<li>
+    <p>
+      <strong>ANALYSIS OF AUTHOR’S ABUSIVE BEHAVIOUR COMMUNITY ON TWITTER</strong> <i>[JAN 2022 - APR 2022]</i></p>
+    <p>
+      This project briefly analyzes the author’s Abusive Behavior Network
+        (ABN) by comparing it to the Normal Behavior Network (NBN). For analysis, the report uses social network analysis measures and
         effectively concludes that ABN has a densified network, information has
         spread rapidly, and much more. It also identifies the topics the author
         has been abusive on. This study will undoubtedly aid in distinguishing
-        between the author’s abusive and normal communities.
-      </li>
-      <li>
-        <strong><i>Author profiling</i></strong>, <strong><i>Hate speech</i></strong>,
-        <strong><i>Community analysis</i></strong>,
-        <strong><i>SNA</i></strong>
-      </li>
-      <li>
-        Code Available
-        <a
+        between the author’s abusive and normal communities. [<a
           href="https://github.com/SwapnilSMane/SNA-Project"
           style="text-decoration: none"
-          ><strong>HERE</strong></a
-        >
-      </li>
-    </ul>
-  </li>
+          ><strong>Source code</strong></a
+        >]</p>
+      <p style="color:brown;"><kbd>Author profiling | Hate speech | Community analysis | SNA<kbd>
+    </p>
+  </li> 
+
   <li>
     <p>
       <strong
