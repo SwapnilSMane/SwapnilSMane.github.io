@@ -19,10 +19,10 @@ author_profile: true
       DETECTION IN SOCIAL MEDIA TEXTUAL CONTENT</strong></i>, International Journal of
       Creative Research Thoughts (IJCRT), ISSN:2320-2882, Volume.9, Issue 8,
       pp.150-157, August 2021. 
-      <a
+      [<a
         href="https://www.ijcrt.org/papers/IJCRTE020026.pdf"
         style="text-decoration: none"
-        >Click here</a>   </li></p>
+        >Click here</a>]   </li></p>
     </ol>
   </div>
 <h2>Conferences</h2>
