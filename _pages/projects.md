@@ -8,10 +8,6 @@ redirect_from:
 ---
 
 {% include base_path %}
-div {
-  text-align: justify;
-  text-justify: inter-word;
-}
 <div>
 <ul>
   <li>
