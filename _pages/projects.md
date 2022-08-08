@@ -53,131 +53,81 @@ redirect_from:
     </p>
   </li> 
 
+<li>
+    <p>
+      <strong>CONTEXTUAL JOURNAL RECOMMENDATION AND QUERY SEARCH ENGINE USING WORD
+        EMBEDDING</strong> <i>[JAN 2022 - APR 2022]</i></p>
+    <p>
+     The proposed methodology will aid aspiring researchers in determining
+        which journal to submit their work to for publication.</p>
+      <p style="color:brown;"><kbd>Context vector | Recommendation system | NLP<kbd>
+    </p>
+  </li> 
+  
   <li>
     <p>
-      <strong
-        >CONTEXTUAL JOURNAL RECOMMENDATION AND QUERY SEARCH ENGINE USING WORD
-        EMBEDDING</strong
-      >
-    </p>
-    <ul>
-      <li>
-        The proposed methodology will aid aspiring researchers in determining
-        which journal to submit their work to for publication.
-      </li>
-      <li>
-        <strong><i>Context vector</i></strong>, <strong><i>Recommendation system</i></strong>,
-        <strong><i>NLP</i></strong>
-      </li>
-    </ul>
-  </li>
-  <li>
-    <p><strong>POLARITY BASED SARCASM DETECTION USING SEMIGRAPH</strong></p>
-    <ul>
-      <li>
-        A variation of the semigraph is suggested in the pattern-relatedness of
+      <strong>POLARITY BASED SARCASM DETECTION USING SEMIGRAPH</strong> <i>[JAN 2022 - APR 2022]</i></p>
+    <p>
+     A variation of the semigraph is suggested in the pattern-relatedness of
         the text document. The proposed method is to obtain the sarcastic and
-        non-sarcastic polarity scores of a document using a semigraph.
-      </li>
-      <li>
-        <strong><i>Sarcasm detection</i></strong>, <strong><i>Sentiment analysis</i></strong>,
-        <strong><i>Semigraph</i></strong> , <strong><i>NLP</i></strong>
-      </li>
-    </ul>
-  </li>
+        non-sarcastic polarity scores of a document using a semigraph.</p>
+      <p style="color:brown;"><kbd>Sarcasm detection | Sentiment analysis | Semigraph | NLP<kbd>
+    </p>
+  </li> 
+
   <li>
     <p>
-      <strong
-        >THEMATIC CONTEXT VECTOR ASSOCIATION BASED ON EVENT UNCERTAINTY FOR
-        TWITTER</strong
-      >
-    </p>
-    <ul>
-      <li>
-        In this project, keywords are extracted using contextual events with the
+      <strong>THEMATIC CONTEXT VECTOR ASSOCIATION BASED ON EVENT UNCERTAINTY FOR
+        TWITTER</strong> <i>[JAN 2022 - APR 2022]</i></p>
+    <p>
+     In this project, keywords are extracted using contextual events with the
         help of data association. The thematic context vectors for events are
         identified using uncertainty principle in the proposed system. The
         system is tested on the twitter COVID-19 dataset and proves to be
-        effective.
-      </li>
-      <li>
-        The system extracts event specific thematic context vectors from the
+        effective. The system extracts event specific thematic context vectors from the
         test dataset and ranks them. The extracted thematic context vectors are
         used for the clustering of contextual thematic vectors which improves
         silhouette coefficient by 0.5% than state of art methods namely TF and
-        TF-IDF.
-      </li>
-      <li>
-        The thematic context vector can be used in other applications like Cyber
-        bullying, sarcasm detection, figurative language detection etc
-      </li>
-      <li>
-        <strong><i>Context vector</i></strong>, <strong><i>Twitter</i></strong>,
-        <strong><i>NLP</i></strong>
-      </li>
-      <li>
-        Code Available
-        <a
+        TF-IDF. The thematic context vector can be used in other applications like Cyber
+        bullying, sarcasm detection, figurative language detection etc. [<a
           href="https://github.com/SwapnilSMane/Thematic-context-vector-association-based-on-event-uncertainty-for-twitter-"
           style="text-decoration: none"
-          ><strong>HERE</strong></a
-        >
-      </li>
-    </ul>
-  </li>
+          ><strong>Source code</strong></a
+        >]</p>
+      <p style="color:brown;"><kbd>Context vector | Twitter | NLP<kbd>
+    </p>
+  </li> 
 
   <li>
     <p>
-      <strong
-        >IDENTIFICATION OF CERTAIN ENTITIES OF EACH EVENTS FROM TWITTER</strong
-      >
-    </p>
-    <ul>
-      <li>
-        This project proposed a method to derive uncertainty of entities in
+      <strong>IDENTIFICATION OF CERTAIN ENTITIES OF EACH EVENTS FROM TWITTER</strong> <i>[JAN 2022 - APR 2022]</i></p>
+    <p>
+     This project proposed a method to derive uncertainty of entities in
         events with respect to context. The proposed method has been applied to
         the news dataset created using Twitter data and proves to be useful for
-        identification of important events and entities from the document.
-      </li>
-
-      <li><strong><i>Twitter events</i></strong>, <strong><i>NLP</i></strong></li>
-      <li>
-        Code Available
-        <a
+        identification of important events and entities from the document. [<a
           href="https://github.com/SwapnilSMane/Identification-of-important-events-and-entities-from-the-document"
           style="text-decoration: none"
-          ><strong>HERE</strong></a
-        >
-      </li>
-    </ul>
-  </li>
+          ><strong>Source code</strong></a
+        >]</p>
+      <p style="color:brown;"><kbd>Twitter events | NLP<kbd>
+    </p>
+  </li> 
 
   <li>
     <p>
-      <strong
-        >EXPLORING TOPICS DISCUSSED IN WHATSAPP WITH SENTIMENT AND STATISTICAL
-        ANALYSIS</strong
-      >
-    </p>
-    <ul>
-      <li>
-        This project proposed a method to derive uncertainty of entities in
+      <strong>EXPLORING TOPICS DISCUSSED IN WHATSAPP WITH SENTIMENT AND STATISTICAL
+        ANALYSIS</strong> <i>[JAN 2022 - APR 2022]</i></p>
+    <p>
+     This project proposed a method to derive uncertainty of entities in
         events with respect to context. The proposed method has been applied to
         the news dataset created using Twitter data and proves to be useful for
-        identification of important events and entities from the document.
-      </li>
-      <li>
-        <strong><i>Statistical analysis</i></strong>,
-        <strong><i>Sentiment analysis</i></strong>, <strong><i>Topic modeling</i></strong>
-      </li>
-      <li>
-        Code Available
-        <a
+        identification of important events and entities from the document. [<a
           href="https://github.com/SwapnilSMane/Statistical-Analysis-of-WhatsApp-chat"
           style="text-decoration: none"
-          ><strong>HERE</strong></a
-        >
-      </li>
-    </ul>
-  </li>
+          ><strong>Source code</strong></a
+        >]</p>
+      <p style="color:brown;"><kbd>Statistical analysis | Sentiment analysis | Topic modeling | NLP<kbd>
+    </p>
+  </li> 
 </ul>
