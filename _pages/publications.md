@@ -32,7 +32,7 @@ author_profile: true
     </li>
     <li><p align="justify">
       Mane S., Khatavkar V., <strong>Effective feature extraction for intrusion detection systems using non-negative matrix factorization and univariate analysis.</strong> In International conference SACAIM 2021 <i>[Presented]</i></p> 
-    </li></p>
+    </li>
     </ol>
    </div>
   
@@ -47,4 +47,3 @@ author_profile: true
     </p></li>
     </ol> 
   </div>
-</div>
