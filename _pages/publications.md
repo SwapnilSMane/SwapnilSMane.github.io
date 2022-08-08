@@ -15,8 +15,8 @@ author_profile: true
   <div>
     <ol type="1">
     <p><li>
-      Swapnil S. Mane,Vaibhav K. Khatavkar, <strong>RESEARCHERS EYE-VIEW OF SARCASM
-      DETECTION IN SOCIAL MEDIA TEXTUAL CONTENT</strong>, International Journal of
+      Mane S., Khatavkar V., <i><strong>RESEARCHERS EYE-VIEW OF SARCASM
+      DETECTION IN SOCIAL MEDIA TEXTUAL CONTENT</strong></i>, International Journal of
       Creative Research Thoughts (IJCRT), ISSN:2320-2882, Volume.9, Issue 8,
       pp.150-157, August 2021,
     </li></p>
@@ -34,26 +34,23 @@ author_profile: true
   <div>
     <ol type="1">
     <p><li>
-      Mane S., Khatavkar V., Researchers eye-view of sarcasm detection in social media textual content. In International Conference on Computing and Applied Engineering (ICCAE2021) <strong> [Presented] </strong>
+      Mane S., Khatavkar V., <strong>Researchers eye-view of sarcasm detection in social media textual content.</strong> In International Conference on Computing and Applied Engineering (ICCAE2021) <i> [Presented] </i>
     </li><p>
     <p><li>
-      Mane S., Khatavkar V., Effective feature extraction for intrusion detection systems using non-negative matrix factorization and univariate analysis. In International conference SACAIM 2021 <strong> [Presented] </strong>
+      Mane S., Khatavkar V., <strong>Effective feature extraction for intrusion detection systems using non-negative matrix factorization and univariate analysis.</strong> In International conference SACAIM 2021 <i>[Presented] </i>
     </li></p>
       </ol>  
   </div>
   
 <h2>Workshops</h2>
   <div>
-    <h3>
-      <strong> Python and Android Application Development</strong>
-    </h3>
-    <p>A workshop organized by Walchand College of Engineering, Sangli, 2018</p>
-  </div>
-
-  <div>
-    <h3>
-      <strong>High-Performance Computing</strong>
-    </h3>
-    <p>A workshop organized by Indian Institute of Technology, Bombay, 2016</p>
+    <ol type="1">
+    <p><li>
+      <strong> High-Performance Computing </strong> organized by the Indian Institute of Technology, Bombay, 2016 <i>[Attended]</i>
+    </li><p>
+    <p><li>
+      <strong> Python and Android Application Development </strong> organized by the Walchand College of Engineering, Sangli, 2018 <i>[Attended]</i>
+    </li></p>
+      </ol> 
   </div>
 </div>
