@@ -12,7 +12,7 @@ redirect_from:
 <ul>
   <li>
     <p>
-      <strong>KNOWLEDGE DISTILLATION : AGGRESSION DETECTION USING MINI BERT</strong> <i>[JAN 2022 - APR 2022]</i></p>
+      <strong>KNOWLEDGE DISTILLATION : AGGRESSION DETECTION USING MINI BERT</strong> <small><i>[JAN 2022 - APR 2022]</i></small></p>
     <p>
       The knowledge is transferred from the BERT base to mini BERT (3-layers)
       using knowledge distillation, which is 7.5x smaller and 9.4x faster on
@@ -28,7 +28,7 @@ redirect_from:
   <li>
     <p>
       <strong>KNOWLDGENET RELATIONSHIP CLASSIFICATION USING A PRE-TRAINED
-        MODEL</strong> <i>[JAN 2022 - APR 2022]</i></p>
+        MODEL</strong> <small><i>[JAN 2022 - APR 2022]</i></small></p>
     <p>
       Relation classifier with new information on entity embeddings utilizing
         Pre-trained BERT. Over the state-of-the-art strategy, this suggested
@@ -42,7 +42,7 @@ redirect_from:
 
 <li>
     <p>
-      <strong>ANALYSIS OF AUTHOR’S ABUSIVE BEHAVIOUR COMMUNITY ON TWITTER</strong> <i>[JAN 2022 - APR 2022]</i></p>
+      <strong>ANALYSIS OF AUTHOR’S ABUSIVE BEHAVIOUR COMMUNITY ON TWITTER</strong> <small><i>[AUG 2021 - NOV 2021]</i></small></p>
     <p>
       This project briefly analyzes the author’s Abusive Behavior Network
         (ABN) by comparing it to the Normal Behavior Network (NBN). For analysis, the report uses social network analysis measures and
@@ -64,7 +64,7 @@ redirect_from:
 <li>
     <p>
       <strong>CONTEXTUAL JOURNAL RECOMMENDATION AND QUERY SEARCH ENGINE USING WORD
-        EMBEDDING</strong> <i>[JAN 2022 - APR 2022]</i></p>
+        EMBEDDING</strong> <small><i>[AUG 2021 - OCT 2021]</i></small></p>
     <p>
      The proposed methodology will aid aspiring researchers in determining
         which journal to submit their work to for publication.<br>
@@ -76,7 +76,7 @@ redirect_from:
   
   <li>
     <p>
-      <strong>POLARITY BASED SARCASM DETECTION USING SEMIGRAPH</strong> <i>[JAN 2022 - APR 2022]</i></p>
+      <strong>POLARITY BASED SARCASM DETECTION USING SEMIGRAPH</strong> <small><i>[AUG 2020 - MAR 2021]</i></small></p>
     <p>
      A variation of the semigraph is suggested in the pattern-relatedness of
         the text document. The proposed method is to obtain the sarcastic and
@@ -91,7 +91,7 @@ redirect_from:
   <li>
     <p>
       <strong>THEMATIC CONTEXT VECTOR ASSOCIATION BASED ON EVENT UNCERTAINTY FOR
-        TWITTER</strong> <i>[JAN 2022 - APR 2022]</i></p>
+        TWITTER</strong> <small><i>[JUL 2020 - AUG 2020]</i></small></p>
     <p>
      In this project, keywords are extracted using contextual events with the
         help of data association. The thematic context vectors for events are
@@ -115,7 +115,7 @@ redirect_from:
 
   <li>
     <p>
-      <strong>IDENTIFICATION OF CERTAIN ENTITIES OF EACH EVENTS FROM TWITTER</strong> <i>[JAN 2022 - APR 2022]</i></p>
+      <strong>IDENTIFICATION OF CERTAIN ENTITIES OF EACH EVENTS FROM TWITTER</strong> <small><i>[JUL 2020 - JUL 2020]</i></small></p>
     <p>
      This project proposed a method to derive uncertainty of entities in
         events with respect to context. The proposed method has been applied to
@@ -133,7 +133,7 @@ redirect_from:
   <li>
     <p>
       <strong>EXPLORING TOPICS DISCUSSED IN WHATSAPP WITH SENTIMENT AND STATISTICAL
-        ANALYSIS</strong> <i>[JAN 2022 - APR 2022]</i></p>
+        ANALYSIS</strong> <small><i>[JUL 2020 - JUL 2020]</i></small></p>
     <p>
      This project proposed a method to derive uncertainty of entities in
         events with respect to context. The proposed method has been applied to
