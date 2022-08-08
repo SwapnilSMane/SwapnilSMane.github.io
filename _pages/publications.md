@@ -13,18 +13,14 @@ author_profile: true
 <h2>Journals</h2>
 <div>
   <div>
-    <h3>
-      <strong
-        >RESEARCHERS EYE-VIEW OF SARCASM DETECTION IN SOCIAL MEDIA TEXTUAL
-        CONTENT</strong
-      >
-    </h3>
-    <p>
-      Swapnil S. Mane,Vaibhav K. Khatavkar, ”RESEARCHERS EYE-VIEW OF SARCASM
-      DETECTION IN SOCIAL MEDIA TEXTUAL CONTENT”, International Journal of
+    <ol type="1">
+    <h3><li>
+      Swapnil S. Mane,Vaibhav K. Khatavkar, <strong>RESEARCHERS EYE-VIEW OF SARCASM
+      DETECTION IN SOCIAL MEDIA TEXTUAL CONTENT</strong>, International Journal of
       Creative Research Thoughts (IJCRT), ISSN:2320-2882, Volume.9, Issue 8,
       pp.150-157, August 2021,
-    </p>
+    </li></h3>
+    </ol>
     <p>
       Paper Available
       <a
@@ -36,18 +32,16 @@ author_profile: true
   </div>
 <h2>Conferences</h2>
   <div>
-    <h3>
-      <strong
-        >Effective feature extraction for intrusion detection systems using
-        non-negative matrix factorization and univariate analysis</strong
-      >
-    </h3>
-    <p>
-      The paper ”Effective feature extraction for intrusion detection systems
-      using non-negative matrix factorization and univariate analysis” was
-      presented and accepted at the International conference SACAIM, 2021
-    </p>
+    <ol type="1">
+    <h3><li>
+      Mane S., Khatavkar V., Researchers eye-view of sarcasm detection in social media textual content. In International Conference on Computing and Applied Engineering (ICCAE2021) <strong> [Presented] </strong>
+    </li></h3>
+    <h3><li>
+      Mane S., Khatavkar V., Effective feature extraction for intrusion detection systems using non-negative matrix factorization and univariate analysis. In International conference SACAIM 2021 <strong> [Presented] </strong>
+    </li></h3>
+      </ol>  
   </div>
+  
 <h2>Workshops</h2>
   <div>
     <h3>
