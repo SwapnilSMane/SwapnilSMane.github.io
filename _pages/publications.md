@@ -35,22 +35,22 @@ author_profile: true
     <ol type="1">
     <p><li>
       Mane S., Khatavkar V., <strong>Researchers eye-view of sarcasm detection in social media textual content.</strong> In International Conference on Computing and Applied Engineering (ICCAE2021) <i> [Presented] </i>
-    </li><p>
-    <p><li>
+    </li>
+    <li>
       Mane S., Khatavkar V., <strong>Effective feature extraction for intrusion detection systems using non-negative matrix factorization and univariate analysis.</strong> In International conference SACAIM 2021 <i>[Presented] </i>
     </li></p>
-      </ol>  
-  </div>
+    </ol>
+   </div>
   
 <h2>Workshops</h2>
   <div>
     <ol type="1">
     <p><li>
       <strong> High-Performance Computing </strong> organized by the Indian Institute of Technology, Bombay, 2016 <i>[Attended]</i>
-    </li><p>
-    <p><li>
+    </li>
+    <li>
       <strong> Python and Android Application Development </strong> organized by the Walchand College of Engineering, Sangli, 2018 <i>[Attended]</i>
     </li></p>
-      </ol> 
+    </ol> 
   </div>
 </div>
