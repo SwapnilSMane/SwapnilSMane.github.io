@@ -14,7 +14,7 @@ author_profile: true
 <div>
   <div>
     <ol type="1">
-    <p><li>
+    <p align="justify"><li>
       Mane S., Khatavkar V., <i><strong>RESEARCHERS EYE-VIEW OF SARCASM
       DETECTION IN SOCIAL MEDIA TEXTUAL CONTENT</strong></i>, International Journal of
       Creative Research Thoughts (IJCRT), ISSN:2320-2882, Volume.9, Issue 8,
@@ -28,7 +28,7 @@ author_profile: true
 <h2>Conferences</h2>
   <div>
     <ol type="1">
-    <p><li>
+    <p align="justify"><li>
       Mane S., Khatavkar V., <strong>Researchers eye-view of sarcasm detection in social media textual content.</strong> In International Conference on Computing and Applied Engineering (ICCAE2021) <i> [Presented] </i>
     </li>
     <li>
@@ -40,7 +40,7 @@ author_profile: true
 <h2>Workshops</h2>
   <div>
     <ol type="1">
-    <p><li>
+    <p align="justify"><li>
       <strong> High-Performance Computing </strong> organized by the Indian Institute of Technology, Bombay, 2016 <i>[Attended]</i>
     </li>
     <li>
