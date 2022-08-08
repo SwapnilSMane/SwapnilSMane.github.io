@@ -16,8 +16,11 @@ redirect_from:
     <p>
       The knowledge is transferred from the BERT base to mini BERT (3-layers)
       using knowledge distillation, which is 7.5x smaller and 9.4x faster on
-      inference.</p>
-      <p style="color:brown;"><kbd>Knowledge Distillation | Aggression detection | BER | NLP<kbd>
+      inference.
+      <kbd>Knowledge Distillation </kbd>
+      <kbd>Aggression detection </kbd> 
+      <kbd>BERT </kbd>
+      <<kbd>NLP </kbd>
     </p>
   </li>
   
@@ -30,8 +33,10 @@ redirect_from:
       Relation classifier with new information on entity embeddings utilizing
         Pre-trained BERT. Over the state-of-the-art strategy, this suggested
         model achieves significant performance on the KnowldgeNet relational
-        dataset.</p>
-      <p style="color:brown;"><kbd>Relationship classification | Entity Information | NLP<kbd>
+        dataset. <br>
+      <kbd>Relationship classification </kbd> 
+      <kbd>Entity Information </kbd>
+      <kbd>NLP </kbd>
     </p>
   </li> 
 
