@@ -21,17 +21,17 @@ author_profile: true
       [<a
         href="https://www.ijcrt.org/papers/IJCRTE020026.pdf"
         style="text-decoration: none"
-        >Click here</a>]   </li></p>
+        >Click here</a>] </p></li>
     </ol>
   </div>
 <h2>Conferences</h2>
   <div>
     <ol type="1">
     <li><p align="justify">
-      Mane S., Khatavkar V., <strong>Researchers eye-view of sarcasm detection in social media textual content.</strong> In International Conference on Computing and Applied Engineering (ICCAE2021) <i> [Presented] </i>
+      Mane S., Khatavkar V., <strong>Researchers eye-view of sarcasm detection in social media textual content.</strong> In International Conference on Computing and Applied Engineering (ICCAE2021) <i> [Presented]</i></p> 
     </li>
-    <li>
-      Mane S., Khatavkar V., <strong>Effective feature extraction for intrusion detection systems using non-negative matrix factorization and univariate analysis.</strong> In International conference SACAIM 2021 <i>[Presented] </i>
+    <li><p align="justify">
+      Mane S., Khatavkar V., <strong>Effective feature extraction for intrusion detection systems using non-negative matrix factorization and univariate analysis.</strong> In International conference SACAIM 2021 <i>[Presented]</i></p> 
     </li></p>
     </ol>
    </div>
@@ -40,11 +40,11 @@ author_profile: true
   <div>
     <ol type="1">
     <li><p align="justify">
-      <strong> High-Performance Computing </strong> organized by the Indian Institute of Technology, Bombay, 2016 <i>[Attended]</i>
+      <strong> High-Performance Computing </strong> organized by the Indian Institute of Technology, Bombay, 2016 <i>[Attended]</i>/p>
     </li>
-    <li>
+    <li><p align="justify">
       <strong> Python and Android Application Development </strong> organized by the Walchand College of Engineering, Sangli, 2018 <i>[Attended]</i>
-    </li></p>
+    </p></li>
     </ol> 
   </div>
 </div>
