@@ -11,7 +11,6 @@ author_profile: true
 
 {% include base_path %}
 <h2>Journals</h2>
-<div>
   <div>
     <ol type="1">
     <li><p align="justify">
