@@ -135,10 +135,7 @@ redirect_from:
       <strong>EXPLORING TOPICS DISCUSSED IN WHATSAPP WITH SENTIMENT AND STATISTICAL
         ANALYSIS</strong> <small><i>[JUL 2020 - JUL 2020]</i></small></p>
     <p align="justify">
-     This project proposed a method to derive uncertainty of entities in
-        events with respect to context. The proposed method has been applied to
-        the news dataset created using Twitter data and proves to be useful for
-        identification of important events and entities from the document. [<a
+     Worked on a statistical analysis of the WhatsApp group chat. This will answer some general questions. Also, we build a sentiment analysis of personal and group chats. The sentiment of WhatsApp chat will give user-wise sentiment analysis. This will help you get the user's overall emotion during the chat. [<a
           href="https://github.com/SwapnilSMane/Statistical-Analysis-of-WhatsApp-chat"
           style="text-decoration: none"
           ><strong>Source code</strong></a
