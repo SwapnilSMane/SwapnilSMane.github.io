@@ -1,26 +1,25 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "About Swapnil"
+excerpt: "About Swapnil"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 <p align="justify">
-I am a Ph.D. research scholar in the Computer Science and Engineering department (<a href="https://cse.iitj.ac.in/" target="_blank">CSE</a>) of the Indian Institute of Technology, Jodhpur (<a href="https://www.iitj.ac.in/" target="_blank">IITJ</a>). </p>
-<p align="justify">
-I am working in the Cognitive & Social Analytics Lab (<a href="https://www.csa-iitj.group/" target="_blank">CSA Lab</a>), affiliated with the Computer Science and Engineering department of IIT, Jodhpur. My advisor is <a href="http://home.iitj.ac.in/~suman/" target="_blank">Dr. Suman Kundu</a>. I am also working closely with <a href="https://rajeshsharma.cs.ut.ee/" target="_blank">Dr. Rajesh Sharma</a> from the University of Tartu. </p>
+  Swapnil Mane is a Ph.D. research scholar in the <a href="https://cse.iitj.ac.in/" target="_blank">Department of Computer Science and Engineering</a> at the <a href="https://www.iitj.ac.in/" target="_blank">Indian Institute of Technology Jodhpur</a>. He is working in the research group SoNAA: Social Network Analysis and Application led by <a href="http://home.iitj.ac.in/~suman/" target="_blank">Dr. Suman Kundu</a>, Assistant Professor at IIT, Jodhpur. The research group is part of the Cognitive and Social Analytics Lab (<a href="https://www.csa-iitj.group/" target="_blank">CSA Lab</a>), affiliated with the Department of Computer Science and Engineering at IIT, Jodhpur. Swapnil is also working closely with <a href="https://rajeshsharma.cs.ut.ee/" target="_blank">Dr. Rajesh Sharma</a>, Associate Professor of the Institute of Computer Science at the University of Tartu, Estonia. </p>
 
 <p align="justify">
-I completed my M.Tech in Computer Engineering from the College Of Engineering Pune (<a href="http://www.coep.org.in/" target="_blank">COEP</a>), India, and my B.Tech in Computer Engineering from Rajarambapu Institute of Technology (<a href="https://www.ritindia.edu/" target="_blank">RIT</a>), Islampur, India.  </p>
+Swapnil received his master's (M.Tech) degree from the department of Computer Engineering at the College of Engineering Pune (<a href="http://www.coep.org.in/" target="_blank">COEP</a>) in 2021. He received his bachelor's (B.Tech) degree from the Department of Computer Science and Engineering at the Rajarambapu Institute of Technology (<a href="https://www.ritindia.edu/" target="_blank">RIT</a>) Islampur, India, in 2019.
+</p>
 
 <p align="justify">
-Currently researching the domain of cyberbullying on social media and author behavior. Exploring skills in natural language processing, social network analysis, pattern analysis, and machine intelligence.</p>
+Currently researching the domain of cyber-aggressive behavior on Indian social media.</p>
 
 ### Research Interests
   * Social Network Analysis
-  * Network Data Science
-  * Soft Computing
   * Natural Language Processing
+  * Network Data Science
   * Knowledge Graphs    
+  * Soft Computing
