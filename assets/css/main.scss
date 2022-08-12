@@ -9,6 +9,7 @@
  *  - https://twitter.com/mmistakes
  *
 */
+@import "minimal-mistakes/skins/air";
 
 @import "vendor/breakpoint/breakpoint"; // media query mixins
 @import "variables";
@@ -17,8 +18,6 @@
 
 @import "reset";
 @import "base";
-
-@import "minimal-mistakes/skins/air";
 
 @import "utilities";
 @import "animations";
