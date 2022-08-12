@@ -255,6 +255,13 @@ defaults:
       author_profile: true
       share: true
 
+
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "UA-1234567-8"
+    anonymize_ip: false # default
+    
 # Sass/SCSS
 sass:
   sass_dir: _sass
