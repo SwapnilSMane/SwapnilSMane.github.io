@@ -8,6 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 theme                    : minimal-mistakes-jekyll
+minimal_mistakes_skin    : "air"
 title                    : "Swapnil S. Mane"
 title_separator          : "-"
 name                     : &name "Swapnil S. Mane"
