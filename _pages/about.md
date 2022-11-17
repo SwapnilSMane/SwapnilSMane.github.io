@@ -32,9 +32,9 @@ He is currently researching the domain of cyber-aggressive behavior on Indian so
 
 <div>
   <h2>About</h2>
-  * Social Network Analysis
-  * Natural Language Processing
-  * Network Data Science
-  * Knowledge Graphs    
-  * Soft Computing
+  <li>Social Network Analysis</li>
+  <li>Natural Language Processing</li>
+  <li>Network Data Science</li>
+  <li>Knowledge Graphs</li>    
+  <li>Soft Computing</li>
 </div>
