@@ -23,15 +23,18 @@ He is currently researching the domain of cyber-aggressive behavior on Indian so
   <ul>
   <li>
     <p>
-      <strong>Got selected as Prime Minister Research Fellow (PMRF).  <small><i>[APR 2021 - JUL 2021]</i></small></p>
-      <span class="blinking">(NEW)</span>
+      <strong>Got selected as Prime Minister Research Fellow (PMRF).</strong>  
+      <small><i>[APR 2021 - JUL 2021]</i></small> <span class="blinking">[NEW]</span>
+        </p>
     </li>
     </ul>
   </div>
 
-### Research Interests
+<div>
+  <h2>Industrial Experience</h2>
   * Social Network Analysis
   * Natural Language Processing
   * Network Data Science
   * Knowledge Graphs    
   * Soft Computing
+</div>
