@@ -31,7 +31,7 @@ He is currently researching the domain of cyber-aggressive behavior on Indian so
   </div>
 
 <div>
-  <h2>About</h2>
+  <h2>Interests</h2>
   <li>Natural Language Processing</li>
   <li>Social Network Analysis</li>
   <li>Network Data Science</li>
