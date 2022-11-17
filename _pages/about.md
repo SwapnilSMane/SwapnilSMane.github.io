@@ -24,7 +24,7 @@ He is currently researching the domain of cyber-aggressive behavior on Indian so
   <li>
     <p>
       <strong>Got selected as Prime Minister Research Fellow (PMRF).</strong>  
-      <small><i>[APR 2021 - JUL 2021]</i></small> <span class="blinking">[NEW]</span>
+      <small><i>[NOV 2022]</i></small> <span class="blinking">[NEW]</span>
         </p>
     </li>
     </ul>
@@ -32,8 +32,8 @@ He is currently researching the domain of cyber-aggressive behavior on Indian so
 
 <div>
   <h2>About</h2>
-  <li>Social Network Analysis</li>
   <li>Natural Language Processing</li>
+  <li>Social Network Analysis</li>
   <li>Network Data Science</li>
   <li>Knowledge Graphs</li>    
   <li>Soft Computing</li>
