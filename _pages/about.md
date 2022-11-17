@@ -18,6 +18,17 @@ Swapnil received his master's (M.Tech) degree from the Department of Computer En
 <p align="justify">
 He is currently researching the domain of cyber-aggressive behavior on Indian social media.  </p>
 
+<div>
+  <h2>Industrial Experience</h2>
+  <ul>
+  <li>
+    <p>
+      <strong>Got selected as Prime Minister Research Fellow (PMRF).  <small><i>[APR 2021 - JUL 2021]</i></small></p>
+      <span class="blinking">(NEW)</span>
+    </li>
+    </ul>
+  </div>
+
 ### Research Interests
   * Social Network Analysis
   * Natural Language Processing
