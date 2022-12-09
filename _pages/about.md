@@ -25,7 +25,7 @@ He is currently researching the domain of cyber-aggressive behavior on Indian so
   <li>
     <p class="notice">
       Got selected as <strong>Prime Minister Research Fellow </strong> (PMRF). 
-      <font color="red"><small><i>[NOV 2022]</i></small></font>
+      <font color="red"><small><i>[ NOV 2022 ]</i></small></font>
     </p>
     </li>
     </ul>
