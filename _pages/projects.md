@@ -14,6 +14,25 @@ redirect_from:
 {% include base_path %}
 <div>
 <ul>
+  
+    <li>
+    <p>
+      <strong>MULTILINGUAL NGRAM-BASED CONVOLUTIONAL NETWORK FOR ASPECT CATEGORY
+DETECTION IN ONLINE REVIEWS</strong> <small><i>[JAN 2022 - APR 2022]</i></small></p>
+    <p align="justify">
+      Relation classifier with new information on entity embeddings utilizing
+        Pre-trained BERT. Over the state-of-the-art strategy, this suggested
+        model achieves significant performance on the KnowldgeNet relational
+        dataset. <br>
+      <kbd>Multilingual Reviews</kbd> 
+      <kbd>Aspect Category</kbd> 
+       <br>
+      <a href="/files/pdf/research/Agreement Strength.pdf"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
+      <a href="https://github.com/SwapnilSMane/SNA-Project"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
+    </p>
+  </li>
+  
+  
   <li>
     <p>
       <strong>KNOWLEDGE DISTILLATION : AGGRESSION DETECTION USING MINI BERT</strong> <small><i>[JAN 2022 - APR 2022]</i></small></p>
