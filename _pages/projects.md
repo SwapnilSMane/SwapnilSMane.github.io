@@ -19,8 +19,8 @@ DETECTION IN ONLINE REVIEWS</strong> <small><i>[JAN 2022 - APR 2022]</i></small>
       <kbd>Multilingual Reviews</kbd> 
       <kbd>Aspect Category</kbd> 
        <br>
-      <a href="/files/pdf/research/Agreement Strength.pdf"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
-      <a href="https://github.com/SwapnilSMane/SNA-Project"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
+      <a href="https://drive.google.com/file/d/1-mNgO-Auzqie51CxXqTJlKQ53_C3LlZR/view?usp=sharing"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
+      <a href="https://github.com/SwapnilSMane/Multilingual-Ngram-based-Convolutional-Network-MNCN-"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
     </p>
   </li>
   
@@ -36,6 +36,9 @@ DETECTION IN ONLINE REVIEWS</strong> <small><i>[JAN 2022 - APR 2022]</i></small>
       <kbd>Aggression detection</kbd> 
       <kbd>BERT</kbd> 
       <kbd>NLP</kbd> 
+       <br>
+      <a href="https://drive.google.com/file/d/1nbhvIGT55OgzUcd3DCFV_Av-ASsFcBQC/view?usp=sharing"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
+      <a href="https://github.com/SwapnilSMane/Knowledge-distillation-Aggression-detection-using-mini-BERT"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
     </p>
   </li>
   
@@ -52,6 +55,9 @@ DETECTION IN ONLINE REVIEWS</strong> <small><i>[JAN 2022 - APR 2022]</i></small>
       <kbd>Relationship classification</kbd> 
       <kbd>Entity Information</kbd> 
       <kbd>NLP </kbd>
+       <br>
+      <a href="https://drive.google.com/file/d/1aEhqG4gRrxWu287tiwDpxRK4YpdnfI09/view?usp=sharing"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
+      <a href=https://github.com/SwapnilSMane/KnowldgeNet-Relationship-Classification-Using-a-Pre-trained-Model"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
     </p>
   </li> 
 
@@ -71,7 +77,7 @@ DETECTION IN ONLINE REVIEWS</strong> <small><i>[JAN 2022 - APR 2022]</i></small>
       <kbd>Community analysis</kbd> 
       <kbd>SNA</kbd> 
       <br>
-      <a href="/files/pdf/research/Agreement Strength.pdf"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
+      <a href="https://drive.google.com/file/d/1REnB1lla2VJBJ38tZsffkHoyjhAK8u4K/view?usp=sharing"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
       <a href="https://github.com/SwapnilSMane/SNA-Project"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
     </p>
   </li> 
@@ -86,6 +92,9 @@ DETECTION IN ONLINE REVIEWS</strong> <small><i>[JAN 2022 - APR 2022]</i></small>
       <kbd>Context vector</kbd> 
       <kbd>Recommendation system</kbd> 
       <kbd>NLP</kbd> 
+       <br>
+      <a href="https://drive.google.com/file/d/1poK5QarDj792uny-P-mjbA4jokXuibhn/view?usp=sharing"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
+      <a href="https://github.com/SwapnilSMane/Contextual-Journal-Recommendation-and-Query-Search-Engine-Using-Word-Embedding"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
     </p>
   </li> 
   
@@ -100,6 +109,9 @@ DETECTION IN ONLINE REVIEWS</strong> <small><i>[JAN 2022 - APR 2022]</i></small>
       <kbd>Sentiment analysis</kbd> 
       <kbd>Semigraph</kbd> 
       <kbd>NLP</kbd> 
+       <br>
+      <a href="https://drive.google.com/file/d/1HVUXF3POGFw-ubU2Rbw7xfTXmvANDEAk/view?usp=sharing"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
+      <a href="https://github.com/SwapnilSMane/Polarity_based-_Sarcasm_Detection_using_Semi-graph"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
     </p>
   </li> 
 
@@ -123,11 +135,28 @@ DETECTION IN ONLINE REVIEWS</strong> <small><i>[JAN 2022 - APR 2022]</i></small>
       <kbd>Twitter</kbd> 
       <kbd>NLP</kbd> 
       <br>
-      <a href="/files/pdf/research/Agreement Strength.pdf"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
+      <a href="https://drive.google.com/file/d/1E4jo-d1knPXexpQgvE1HtZdBe9_qudev/view?usp=sharing"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
       <a href="https://github.com/SwapnilSMane/Thematic-context-vector-association-based-on-event-uncertainty-for-twitter-"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
     </p>
   </li> 
 
+<li>
+    <p>
+      <strong>EFFECTIVE FEATURE EXTRACTION FOR INTRUSION DETECTION SYSTEM USING NON-NEGATIVE MATRIX FACTORIZATION AND UNIVARIATE ANALYSIS
+</strong> <small><i>[AUG 2020 - MAR 2021]</i></small></p>
+    <p align="justify">
+     The proposed model is implemented on three publicly available datasets, which
+gives significant improvement. According to recent research, the
+proposed model has achieved 4.66% and 0.39% with respective
+NSL-KDD and CICD 2017.<br>
+      <kbd>Eﬀective Feature extraction</kbd> 
+      <kbd>IDS</kbd> 
+       <br>
+      <a href="https://drive.google.com/file/d/1IfF6Oz-1O_ECHoHHvatPTqWEV30y5q6l/view?usp=sharing"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
+      <a href="https://github.com/SwapnilSMane/Effective_Feature_Extraction_for_Intrusion_Detection_System_using_Non_negative_Matrix_Factorization"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
+    </p>
+  </li> 
+  
   <li>
     <p>
       <strong>IDENTIFICATION OF CERTAIN ENTITIES OF EACH EVENTS FROM TWITTER</strong> <small><i>[JUL 2020 - JUL 2020]</i></small></p>
@@ -140,7 +169,7 @@ DETECTION IN ONLINE REVIEWS</strong> <small><i>[JAN 2022 - APR 2022]</i></small>
       <kbd>Twitter events</kbd> 
       <kbd>NLP</kbd> 
       <br>
-      <a href="/files/pdf/research/Agreement Strength.pdf"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
+<!--       <a href="/files/pdf/research/Agreement Strength.pdf"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a> -->
       <a href="https://github.com/SwapnilSMane/Identification-of-important-events-and-entities-from-the-document"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
     </p>
   </li> 
@@ -157,7 +186,7 @@ DETECTION IN ONLINE REVIEWS</strong> <small><i>[JAN 2022 - APR 2022]</i></small>
       <kbd>Topic modeling</kbd> 
       <kbd>NLP</kbd> 
       <br>
-      <a href="/files/pdf/research/Agreement Strength.pdf"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
+<!--       <a href="/files/pdf/research/Agreement Strength.pdf"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a> -->
       <a href="https://github.com/SwapnilSMane/Statistical-Analysis-of-WhatsApp-chat"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
     </p>
   </li> 
