@@ -22,6 +22,7 @@ redirect_from:
       <kbd>BERT</kbd> 
       <kbd>NLP</kbd> 
     </p>
+    <a href="https://doi.org/10.1177/07388942211015242"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
   </li>
   
   
