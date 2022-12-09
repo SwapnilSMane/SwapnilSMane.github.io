@@ -143,7 +143,7 @@ DETECTION IN ONLINE REVIEWS</strong> <small><i>[JAN 2022 - APR 2022]</i></small>
 <li>
     <p>
       <strong>EFFECTIVE FEATURE EXTRACTION FOR INTRUSION DETECTION SYSTEM USING NON-NEGATIVE MATRIX FACTORIZATION AND UNIVARIATE ANALYSIS
-</strong> <small><i>[AUG 2020 - MAR 2021]</i></small></p>
+</strong> <small><i>[JUL 2020 - NOV 2020]</i></small></p>
     <p align="justify">
      The proposed model is implemented on three publicly available datasets, which
 gives significant improvement. According to recent research, the
