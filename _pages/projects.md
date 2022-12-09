@@ -5,16 +5,10 @@ permalink: /projects/
 author_profile: true
 redirect_from:
   - /projects
-<!-- ---
-<a href="https://doi.org/10.1017/psrm.2019.23"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
-<a href="https://doi.org/10.7910/DVN/VUY8UI"><i class="fas fa-fw fa-code zoom" aria-hidden="true"></i></a> -->
-
-
 
 {% include base_path %}
 <div>
 <ul>
-  
     <li>
     <p>
       <strong>MULTILINGUAL NGRAM-BASED CONVOLUTIONAL NETWORK FOR ASPECT CATEGORY
