@@ -22,15 +22,14 @@ He is currently researching the domain of cyber-aggressive behavior on Indian so
   <h2>Recent Activity</h2>
   <ul>
   <li>
-    <p>
+    <p><code class="language-plaintext highlighter-rouge">
       Got selected as <strong>Prime Minister Research Fellow </strong> (PMRF). 
       <small><i>[NOV 2022]</i></small>
-        </p>
+      </code></p>
     </li>
     </ul>
   </div>
 
-<p class="notice"><strong>Watch out!</strong> You can also add notices by appending <code class="language-plaintext highlighter-rouge">{: .notice}</code> to a paragraph.</p>
 
 
 <div>
