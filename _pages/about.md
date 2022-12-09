@@ -8,6 +8,15 @@ redirect_from:
   - /about.html
 ---
 
+<style>
+      blink {
+        color: #C70039;
+        font-size: 20px;
+        font-weight: bold;
+        font-family: sans-serif;
+      }
+</style>
+
 <p align="justify">
   Swapnil Mane is a <a href="https://cse.iitj.ac.in/index.php/people/phd-students" target="_blank" style="text-decoration:none;">Ph.D. research scholar</a> in the Department of Computer Science and Engineering at the <a href="https://www.iitj.ac.in/" target="_blank" style="text-decoration:none;">Indian Institute of Technology Jodhpur</a>. He is working in the research group SoNAA: Social Network Analysis and Application led by <a href="http://home.iitj.ac.in/~suman/" target="_blank" style="text-decoration:none;">Dr. Suman Kundu</a>, Assistant Professor at IIT, Jodhpur. The research group is part of the Cognitive and Social Analytics Lab (<a href="https://www.csa-iitj.group/" target="_blank" style="text-decoration:none;">CSA Lab</a>), affiliated with the Department of Computer Science and Engineering at IIT, Jodhpur. Swapnil is also working closely with <a href="https://rajeshsharma.cs.ut.ee/" target="_blank" style="text-decoration:none;">Dr. Rajesh Sharma</a>, Associate Professor of the Institute of Computer Science at the University of Tartu, Estonia. </p>
 
