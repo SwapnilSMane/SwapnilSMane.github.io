@@ -31,8 +31,8 @@
     max-width: 100%;
     padding: 0 1em 1em;
 
-    @include breakpoint($x-small) {
-      max-width: $x-small;
+    @include breakpoint($x-large) {
+      max-width: $x-large;
     }
   }
 
