@@ -20,14 +20,14 @@ He is currently researching the domain of cyber-aggressive behavior on Indian so
 
 <div>
   <h2>Recent Activity</h2>
+  <p class="notice">
   <ul>
   <li>
-    <p><code class="language-plaintext highlighter-rouge">
       Got selected as <strong>Prime Minister Research Fellow </strong> (PMRF). 
       <small><i>[NOV 2022]</i></small>
-      </code></p>
     </li>
     </ul>
+  </p>
   </div>
 
 
