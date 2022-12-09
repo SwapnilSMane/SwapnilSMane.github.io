@@ -5,7 +5,11 @@ permalink: /projects/
 author_profile: true
 redirect_from:
   - /projects
----
+<!-- ---
+<a href="https://doi.org/10.1017/psrm.2019.23"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
+<a href="https://doi.org/10.7910/DVN/VUY8UI"><i class="fas fa-fw fa-code zoom" aria-hidden="true"></i></a> -->
+
+
 
 {% include base_path %}
 <div>
@@ -22,7 +26,6 @@ redirect_from:
       <kbd>BERT</kbd> 
       <kbd>NLP</kbd> 
     </p>
-    <a href="https://doi.org/10.1177/07388942211015242"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
   </li>
   
   
@@ -50,15 +53,15 @@ redirect_from:
         effectively concludes that ABN has a densified network, information has
         spread rapidly, and much more. It also identifies the topics the author
         has been abusive on. This study will undoubtedly aid in distinguishing
-        between the author’s abusive and normal communities. [<a
-          href="https://github.com/SwapnilSMane/SNA-Project"
-          style="text-decoration: none"
-          ><strong>Source code</strong></a
-        >] <br>
+        between the author’s abusive and normal communities.
+      <br>
       <kbd>Author profiling</kbd> 
       <kbd>Hate speech</kbd> 
       <kbd>Community analysis</kbd> 
       <kbd>SNA</kbd> 
+      <br>
+      <a href="/files/pdf/research/Agreement Strength.pdf"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
+      <a href="https://github.com/SwapnilSMane/SNA-Project"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
     </p>
   </li> 
 
@@ -103,14 +106,14 @@ redirect_from:
         used for the clustering of contextual thematic vectors which improves
         silhouette coefficient by 0.5% than state of art methods namely TF and
         TF-IDF. The thematic context vector can be used in other applications like Cyber
-        bullying, sarcasm detection, figurative language detection etc. [<a
-          href="https://github.com/SwapnilSMane/Thematic-context-vector-association-based-on-event-uncertainty-for-twitter-"
-          style="text-decoration: none"
-          ><strong>Source code</strong></a
-        >]<br>
+        bullying, sarcasm detection, figurative language detection etc.
+      <br>
       <kbd>Context vector</kbd> 
       <kbd>Twitter</kbd> 
       <kbd>NLP</kbd> 
+      <br>
+      <a href="/files/pdf/research/Agreement Strength.pdf"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
+      <a href="https://github.com/SwapnilSMane/Thematic-context-vector-association-based-on-event-uncertainty-for-twitter-"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
     </p>
   </li> 
 
@@ -121,13 +124,13 @@ redirect_from:
      This project proposed a method to derive uncertainty of entities in
         events with respect to context. The proposed method has been applied to
         the news dataset created using Twitter data and proves to be useful for
-        identification of important events and entities from the document. [<a
-          href="https://github.com/SwapnilSMane/Identification-of-important-events-and-entities-from-the-document"
-          style="text-decoration: none"
-          ><strong>Source code</strong></a
-        >]<br>
+        identification of important events and entities from the document.
+      <br>
       <kbd>Twitter events</kbd> 
       <kbd>NLP</kbd> 
+      <br>
+      <a href="/files/pdf/research/Agreement Strength.pdf"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
+      <a href="https://github.com/SwapnilSMane/Identification-of-important-events-and-entities-from-the-document"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
     </p>
   </li> 
 
@@ -136,15 +139,15 @@ redirect_from:
       <strong>EXPLORING TOPICS DISCUSSED IN WHATSAPP WITH SENTIMENT AND STATISTICAL
         ANALYSIS</strong> <small><i>[JUL 2020 - JUL 2020]</i></small></p>
     <p align="justify">
-     Worked on a statistical analysis of the WhatsApp group chat. This will answer some general questions. Also, we build a sentiment analysis of personal and group chats. The sentiment of WhatsApp chat will give user-wise sentiment analysis. This will help you get the user's overall emotion during the chat. [<a
-          href="https://github.com/SwapnilSMane/Statistical-Analysis-of-WhatsApp-chat"
-          style="text-decoration: none"
-          ><strong>Source code</strong></a
-        >]<br>
+     Worked on a statistical analysis of the WhatsApp group chat. This will answer some general questions. Also, we build a sentiment analysis of personal and group chats. The sentiment of WhatsApp chat will give user-wise sentiment analysis. This will help you get the user's overall emotion during the chat.
+      <br>
       <kbd>Statistical analysis</kbd> 
       <kbd>Sentiment analysis</kbd> 
       <kbd>Topic modeling</kbd> 
       <kbd>NLP</kbd> 
+      <br>
+      <a href="/files/pdf/research/Agreement Strength.pdf"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
+      <a href="https://github.com/SwapnilSMane/Statistical-Analysis-of-WhatsApp-chat"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
     </p>
   </li> 
 </ul>
