@@ -18,10 +18,10 @@ author_profile: true
       DETECTION IN SOCIAL MEDIA TEXTUAL CONTENT</strong></i>, International Journal of
       Creative Research Thoughts (IJCRT), ISSN:2320-2882, Volume.9, Issue 8,
       pp.150-157, August 2021. 
-      [<a
-        href="https://www.ijcrt.org/papers/IJCRTE020026.pdf"
-        style="text-decoration: none"
-        >Click here</a>] </p></li>
+      <br>
+      <a href="https://www.semanticscholar.org/paper/RESEARCHERS-EYE-VIEW-OF-SARCASM-DETECTION-IN-SOCIAL-Mane/787c1dec747760fa102ab74298af06eb0368bb0e"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
+      <a href="https://www.ijcrt.org/papers/IJCRTE020026.pdf"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
+      </p></li>
     </ol>
   </div>
 <h2>Conferences</h2>
