@@ -31,8 +31,8 @@
     max-width: 100%;
     padding: 0 1em 1em;
 
-    @include breakpoint($x-large) {
-      max-width: $x-large;
+    @include breakpoint($x-small) {
+      max-width: $x-small;
     }
   }
 
@@ -55,7 +55,7 @@
 
 .page__footer-copyright {
   font-family: $global-font-family;
-  font-size: $type-size-7;
+  font-size: $type-size-3;
 }
 
 .page__footer-follow {
@@ -67,10 +67,10 @@
 
   li {
     display: inline-block;
-    padding-top: 5px;
-    padding-bottom: 5px;
+    padding-top: 2px;
+    padding-bottom: 2px;
     font-family: $sans-serif-narrow;
-    font-size: $type-size-6;
+    font-size: $type-size-2;
     text-transform: uppercase;
   }
 
