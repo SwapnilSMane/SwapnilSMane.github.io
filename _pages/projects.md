@@ -41,8 +41,7 @@ DETECTION IN ONLINE REVIEWS</strong> <small><i>[JAN 2022 - APR 2022]</i></small>
       <a href="https://github.com/SwapnilSMane/Knowledge-distillation-Aggression-detection-using-mini-BERT"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
     </p>
   </li>
-  
-  
+
   <li>
     <p>
       <strong>KNOWLDGENET RELATIONSHIP CLASSIFICATION USING A PRE-TRAINED
@@ -57,7 +56,7 @@ DETECTION IN ONLINE REVIEWS</strong> <small><i>[JAN 2022 - APR 2022]</i></small>
       <kbd>NLP </kbd>
        <br>
       <a href="https://drive.google.com/file/d/1aEhqG4gRrxWu287tiwDpxRK4YpdnfI09/view?usp=sharing"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
-      <a href=https://github.com/SwapnilSMane/KnowldgeNet-Relationship-Classification-Using-a-Pre-trained-Model"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
+      <a href="https://github.com/SwapnilSMane/KnowldgeNet-Relationship-Classification-Using-a-Pre-trained-Model"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
     </p>
   </li> 
 
