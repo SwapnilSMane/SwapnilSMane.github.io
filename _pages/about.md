@@ -30,6 +30,9 @@ He is currently researching the domain of cyber-aggressive behavior on Indian so
     </ul>
   </div>
 
+<p class="notice"><strong>Watch out!</strong> You can also add notices by appending <code class="language-plaintext highlighter-rouge">{: .notice}</code> to a paragraph.</p>
+
+
 <div>
   <h2>Interests</h2>
   <li>Natural Language Processing</li>
