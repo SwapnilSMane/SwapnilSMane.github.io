@@ -19,8 +19,8 @@ Swapnil received his master's (M.Tech) degree from the Department of Computer En
 He is currently researching the domain of cyber-aggressive behavior on Indian social media.  </p>
 
 <div>
-  <h2>News</h2>
-  <h3>Recent updates</h3>
+  <h3>News</h3>
+<!--   <h3>Recent updates</h3> -->
   <ul>
   <li>
     <p class="notice">
@@ -34,7 +34,7 @@ He is currently researching the domain of cyber-aggressive behavior on Indian so
 
 
 <div>
-  <h2>Interests</h2>
+  <h3>Interests</h3>
   <ul>
   <li>Natural Language Processing</li>
   <li>Social Network Analysis</li>
