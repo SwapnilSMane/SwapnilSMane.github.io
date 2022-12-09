@@ -8,10 +8,10 @@ author_profile: true
 <div>
 <ul>
     <li>
-    <p align="justify">
+    <p>
       <strong>MULTILINGUAL NGRAM-BASED CONVOLUTIONAL NETWORK FOR ASPECT CATEGORY
-DETECTION IN ONLINE REVIEWS</strong> <small><i>[JAN 2022 - APR 2022]</i></small>
-    <br>
+DETECTION IN ONLINE REVIEWS</strong> <small><i>[JAN 2022 - APR 2022]</i></small></p>
+    <p align="justify">
       Relation classifier with new information on entity embeddings utilizing
         Pre-trained BERT. Over the state-of-the-art strategy, this suggested
         model achieves significant performance on the KnowldgeNet relational
@@ -26,9 +26,9 @@ DETECTION IN ONLINE REVIEWS</strong> <small><i>[JAN 2022 - APR 2022]</i></small>
   
   
   <li>
+    <p>
+      <strong>KNOWLEDGE DISTILLATION : AGGRESSION DETECTION USING MINI BERT</strong> <small><i>[JAN 2022 - APR 2022]</i></small></p>
     <p align="justify">
-      <strong>KNOWLEDGE DISTILLATION : AGGRESSION DETECTION USING MINI BERT</strong> <small><i>[JAN 2022 - APR 2022]</i></small>
-    <br>
       The knowledge is transferred from the BERT base to mini BERT (3-layers)
       using knowledge distillation, which is 7.5x smaller and 9.4x faster on
       inference. <br>
