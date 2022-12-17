@@ -38,8 +38,8 @@ He is currently researching the domain of cyber-aggressive behavior on Indian so
   <ul>
   <li>Natural Language Processing</li>
   <li>Social Network Analysis</li>
+  <li>Computational Social Science</li>
   <li>Network Data Science</li>
   <li>Knowledge Graphs</li>    
-  <li>Soft Computing</li>
   </ul>
 </div>
