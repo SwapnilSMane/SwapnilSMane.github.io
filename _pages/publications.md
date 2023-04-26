@@ -38,9 +38,10 @@ author_profile: true
       Mane S., Khatavkar V., <strong>Researchers eye-view of sarcasm detection in social media textual content.</strong> In International Conference on Computing and Applied Engineering (ICCAE2021) <i> [Presented]</i> </p> 
     </li>
     <li><p align="justify">
-      Mane S., Khatavkar V., <strong>Effective feature extraction for intrusion detection systems using non-negative matrix factorization and univariate analysis.</strong> In International conference SACAIM 2021 <i>[Presented]</i></p> 
+      Mane S., Khatavkar V., <strong>Effective feature extraction for intrusion detection systems using non-negative matrix factorization and univariate analysis.</strong> In International conference SACAIM 2021 <i>[Presented]</i> 
        <a href="https://arxiv.org/abs/2304.01166" target="_blank"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
-    </li>
+    </p>
+     </li>
     </ol>
    </div>
   
