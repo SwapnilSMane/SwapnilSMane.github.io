@@ -22,16 +22,16 @@ He is currently researching the domain of cyber-aggressive behavior on Indian so
   <h3>News</h3>
 <!--   <h3>Recent updates</h3> -->
   <ul>
-    <li>
     <p class="notice">
+    <li>
       Delivered the State-of-the-Art seminar on "Aggressive behaviour on social media" at IITJ.
       <font color="red"><small><i>[ APR 2023 ]</i></small></font>
      </li>
     <li>
       Poster presented at IITJ Open House - Padaro 2.0. 
       <font color="red"><small><i>[ FEB 2023 ]</i></small></font>
-    </p>
     </li>
+    </p>
     <li>
     <p class="notice">
       Successfully cleared the Comprehensive exam. 
