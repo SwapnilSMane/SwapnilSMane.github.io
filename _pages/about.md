@@ -28,6 +28,12 @@ He is currently researching the domain of cyber-aggressive behavior on Indian so
       <font color="red"><small><i>[ NOV 2022 ]</i></small></font>
     </p>
     </li>
+      <li>
+    <p class="notice">
+      Poster presented at IITJ Open House - Padaro 2.0. 
+      <font color="red"><small><i>[ NOV 2022 ]</i></small></font>
+    </p>
+    </li>
     </ul>
   </div>
 
