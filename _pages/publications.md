@@ -15,12 +15,10 @@ author_profile: true
     <ol type="1">
       <li><p align="justify">
       Mane S, Khatavkar V. <i><strong>POLARITY BASED SARCASM DETECTION USING SEMIGRAPH</strong></i>. arXiv preprint arXiv:2304.01424. 2021.
-      <br>
       <a href="https://arxiv.org/abs/2304.01424"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
       </p></li>
     <li><p align="justify">
       Mane S, Khatavkar V. <i><strong>THEMATIC CONTEXT VECTOR ASSOCIATION BASED ON EVENT UNCERTAINTY FOR TWITTER</strong></i>. arXiv preprint arXiv:2304.01424. 2021.
-      <br>
       <a href="https://arxiv.org/abs/2304.01423"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
       </p></li>
     <li><p align="justify">
@@ -28,7 +26,6 @@ author_profile: true
       DETECTION IN SOCIAL MEDIA TEXTUAL CONTENT</strong></i>, International Journal of
       Creative Research Thoughts (IJCRT), ISSN:2320-2882, Volume.9, Issue 8,
       pp.150-157, August 2021. 
-      <br>
       <a href="https://arxiv.org/abs/2304.08582"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
 <!--       <a href="https://arxiv.org/pdf/2304.08582.pdf"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a> -->
       </p></li>
@@ -42,7 +39,6 @@ author_profile: true
     </li>
     <li><p align="justify">
       Mane S., Khatavkar V., <strong>Effective feature extraction for intrusion detection systems using non-negative matrix factorization and univariate analysis.</strong> In International conference SACAIM 2021 <i>[Presented]</i></p> 
-      <br>
        <a href="https://arxiv.org/abs/2304.01166"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
     </li>
     </ol>
