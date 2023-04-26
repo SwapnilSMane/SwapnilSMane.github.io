@@ -19,8 +19,8 @@ DETECTION IN ONLINE REVIEWS</strong> <small><i>[JAN 2022 - APR 2022]</i></small>
       <kbd>Multilingual Reviews</kbd> 
       <kbd>Aspect Category</kbd> 
        <br>
-      <a href="https://drive.google.com/file/d/1-mNgO-Auzqie51CxXqTJlKQ53_C3LlZR/view?usp=sharing"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
-      <a href="https://github.com/SwapnilSMane/Multilingual-Ngram-based-Convolutional-Network-MNCN-"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
+      <a href="https://drive.google.com/file/d/1-mNgO-Auzqie51CxXqTJlKQ53_C3LlZR/view?usp=sharing" target="_blank" rel="noopener noreferrer"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
+      <a href="https://github.com/SwapnilSMane/Multilingual-Ngram-based-Convolutional-Network-MNCN-" target="_blank" rel="noopener noreferrer"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
     </p>
   </li>
   
@@ -37,8 +37,8 @@ DETECTION IN ONLINE REVIEWS</strong> <small><i>[JAN 2022 - APR 2022]</i></small>
       <kbd>BERT</kbd> 
       <kbd>NLP</kbd> 
        <br>
-      <a href="https://drive.google.com/file/d/1nbhvIGT55OgzUcd3DCFV_Av-ASsFcBQC/view?usp=sharing"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
-      <a href="https://github.com/SwapnilSMane/Knowledge-distillation-Aggression-detection-using-mini-BERT"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
+      <a href="https://drive.google.com/file/d/1nbhvIGT55OgzUcd3DCFV_Av-ASsFcBQC/view?usp=sharing" target="_blank" rel="noopener noreferrer"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
+      <a href="https://github.com/SwapnilSMane/Knowledge-distillation-Aggression-detection-using-mini-BERT" target="_blank" rel="noopener noreferrer"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
     </p>
   </li>
 
@@ -55,8 +55,8 @@ DETECTION IN ONLINE REVIEWS</strong> <small><i>[JAN 2022 - APR 2022]</i></small>
       <kbd>Entity Information</kbd> 
       <kbd>NLP </kbd>
        <br>
-      <a href="https://drive.google.com/file/d/1aEhqG4gRrxWu287tiwDpxRK4YpdnfI09/view?usp=sharing"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
-      <a href="https://github.com/SwapnilSMane/KnowldgeNet-Relationship-Classification-Using-a-Pre-trained-Model"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
+      <a href="https://drive.google.com/file/d/1aEhqG4gRrxWu287tiwDpxRK4YpdnfI09/view?usp=sharing" target="_blank" rel="noopener noreferrer"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
+      <a href="https://github.com/SwapnilSMane/KnowldgeNet-Relationship-Classification-Using-a-Pre-trained-Model" target="_blank" rel="noopener noreferrer"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
     </p>
   </li> 
 
@@ -76,8 +76,8 @@ DETECTION IN ONLINE REVIEWS</strong> <small><i>[JAN 2022 - APR 2022]</i></small>
       <kbd>Community analysis</kbd> 
       <kbd>SNA</kbd> 
       <br>
-      <a href="https://drive.google.com/file/d/1REnB1lla2VJBJ38tZsffkHoyjhAK8u4K/view?usp=sharing"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
-      <a href="https://github.com/SwapnilSMane/SNA-Project"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
+      <a href="https://drive.google.com/file/d/1REnB1lla2VJBJ38tZsffkHoyjhAK8u4K/view?usp=sharing" target="_blank" rel="noopener noreferrer"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
+      <a href="https://github.com/SwapnilSMane/SNA-Project" target="_blank" rel="noopener noreferrer"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
     </p>
   </li> 
 
@@ -92,8 +92,8 @@ DETECTION IN ONLINE REVIEWS</strong> <small><i>[JAN 2022 - APR 2022]</i></small>
       <kbd>Recommendation system</kbd> 
       <kbd>NLP</kbd> 
        <br>
-      <a href="https://drive.google.com/file/d/1poK5QarDj792uny-P-mjbA4jokXuibhn/view?usp=sharing"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
-      <a href="https://github.com/SwapnilSMane/Contextual-Journal-Recommendation-and-Query-Search-Engine-Using-Word-Embedding"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
+      <a href="https://drive.google.com/file/d/1poK5QarDj792uny-P-mjbA4jokXuibhn/view?usp=sharing" target="_blank" rel="noopener noreferrer"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
+      <a href="https://github.com/SwapnilSMane/Contextual-Journal-Recommendation-and-Query-Search-Engine-Using-Word-Embedding" target="_blank" rel="noopener noreferrer"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
     </p>
   </li> 
   
@@ -109,8 +109,8 @@ DETECTION IN ONLINE REVIEWS</strong> <small><i>[JAN 2022 - APR 2022]</i></small>
       <kbd>Semigraph</kbd> 
       <kbd>NLP</kbd> 
        <br>
-      <a href="https://drive.google.com/file/d/1HVUXF3POGFw-ubU2Rbw7xfTXmvANDEAk/view?usp=sharing"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
-      <a href="https://github.com/SwapnilSMane/Polarity_based-_Sarcasm_Detection_using_Semi-graph"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
+      <a href="https://arxiv.org/abs/2304.01424" target="_blank" rel="noopener noreferrer"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
+      <a href="https://github.com/SwapnilSMane/Polarity_based-_Sarcasm_Detection_using_Semi-graph" target="_blank" rel="noopener noreferrer"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
     </p>
   </li> 
 
@@ -134,8 +134,8 @@ DETECTION IN ONLINE REVIEWS</strong> <small><i>[JAN 2022 - APR 2022]</i></small>
       <kbd>Twitter</kbd> 
       <kbd>NLP</kbd> 
       <br>
-      <a href="https://drive.google.com/file/d/1E4jo-d1knPXexpQgvE1HtZdBe9_qudev/view?usp=sharing"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
-      <a href="https://github.com/SwapnilSMane/Thematic-context-vector-association-based-on-event-uncertainty-for-twitter-"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
+      <a href="https://arxiv.org/abs/2304.01423" target="_blank" rel="noopener noreferrer"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
+      <a href="https://github.com/SwapnilSMane/Thematic-context-vector-association-based-on-event-uncertainty-for-twitter-" target="_blank" rel="noopener noreferrer"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
     </p>
   </li> 
 
@@ -151,8 +151,8 @@ NSL-KDD and CICD 2017.<br>
       <kbd>Eﬀective Feature extraction</kbd> 
       <kbd>IDS</kbd> 
        <br>
-      <a href="https://drive.google.com/file/d/1IfF6Oz-1O_ECHoHHvatPTqWEV30y5q6l/view?usp=sharing"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
-      <a href="https://github.com/SwapnilSMane/Effective_Feature_Extraction_for_Intrusion_Detection_System_using_Non_negative_Matrix_Factorization"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
+      <a href="https://arxiv.org/abs/2304.01166" target="_blank" rel="noopener noreferrer"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
+      <a href="https://github.com/SwapnilSMane/Effective_Feature_Extraction_for_Intrusion_Detection_System_using_Non_negative_Matrix_Factorization" target="_blank" rel="noopener noreferrer"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
     </p>
   </li> 
   
@@ -169,7 +169,7 @@ NSL-KDD and CICD 2017.<br>
       <kbd>NLP</kbd> 
       <br>
 <!--       <a href="/files/pdf/research/Agreement Strength.pdf"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a> -->
-      <a href="https://github.com/SwapnilSMane/Identification-of-important-events-and-entities-from-the-document"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
+      <a href="https://github.com/SwapnilSMane/Identification-of-important-events-and-entities-from-the-document" target="_blank" rel="noopener noreferrer"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
     </p>
   </li> 
 
@@ -186,7 +186,7 @@ NSL-KDD and CICD 2017.<br>
       <kbd>NLP</kbd> 
       <br>
 <!--       <a href="/files/pdf/research/Agreement Strength.pdf"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a> -->
-      <a href="https://github.com/SwapnilSMane/Statistical-Analysis-of-WhatsApp-chat"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
+      <a href="https://github.com/SwapnilSMane/Statistical-Analysis-of-WhatsApp-chat" target="_blank" rel="noopener noreferrer"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
     </p>
   </li> 
 </ul>
