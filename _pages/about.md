@@ -22,15 +22,26 @@ He is currently researching the domain of cyber-aggressive behavior on Indian so
   <h3>News</h3>
 <!--   <h3>Recent updates</h3> -->
   <ul>
+    <li>
+    <p class="notice">
+      Delivered the State-of-the-Art seminar on "Aggressive behaviour on social media" at IITJ.
+      <font color="red"><small><i>[ APR 2023 ]</i></small></font>
+    </p>
+    <li>
+    <p class="notice">
+      Poster presented at IITJ Open House - Padaro 2.0. 
+      <font color="red"><small><i>[ FEB 2023 ]</i></small></font>
+    </p>
+    </li>
+    <li>
+    <p class="notice">
+      Successfully cleared the Comprehensive exam. 
+      <font color="red"><small><i>[ DEC 2023 ]</i></small></font>
+    </p>
+    </li>
   <li>
     <p class="notice">
       Got selected as <strong>Prime Minister Research Fellow </strong> (PMRF). 
-      <font color="red"><small><i>[ NOV 2022 ]</i></small></font>
-    </p>
-    </li>
-      <li>
-    <p class="notice">
-      Poster presented at IITJ Open House - Padaro 2.0. 
       <font color="red"><small><i>[ NOV 2022 ]</i></small></font>
     </p>
     </li>
