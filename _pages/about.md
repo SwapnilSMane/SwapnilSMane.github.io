@@ -20,36 +20,35 @@ Swapnil received his master's (M.Tech) degree from the Department of Computer En
 He is currently researching the domain of cyber-aggressive behavior on Indian social media.  </p>
 
 <div>
-  <h3>News</h3>
+  <h3 style="font-family:Spectral; color:MidnightBlue"> News</h3>
 <!--   <h3>Recent updates</h3> -->
   <ul>
     <li>
-    <p class="notice">
-      Delivered the <strong>State-of-the-Art seminar on "Aggressive behaviour on social media"</strong> at IITJ.
-      <font color="red"><small><i>[ APR 2023 ]</i></small></font>
+    <p style="font-family:Spectral; color:MidnightBlue"><i>
+      Delivered the <strong>State-of-the-Art seminar on "Aggressive behaviour on social media"</strong> at IITJ.</i>
+      <font color="red"><sub>[ APR 2023 ]</sub></font>
     </p>
      </li>
     <li>
-    <p class="notice">
-      <strong>Poster presented</strong> at IITJ Open House - Padaro 2.0. 
-      <font color="red"><small><i>[ FEB 2023 ]</i></small></font>
+    <p style="font-family:Spectral; color:MidnightBlue"><i>
+      <strong>Poster presented</strong> at IITJ Open House - Padaro 2.0.</i>
+      <font color="red"><sub>[ FEB 2023 ]</sub></font>
     </p>
     </li>
     <li>
-    <p class="notice">
-      Successfully cleared the <strong>comprehensive exam</strong>. 
-      <font color="red"><small><i>[ DEC 2023 ]</i></small></font>
+    <p style="font-family:Spectral; color:MidnightBlue"><i>
+      Successfully cleared the <strong>comprehensive exam</strong>.</i>
+      <font color="red"><sub>[ DEC 2023 ]</sub></font>
     </p>
     </li>
   <li>
-    <p class="notice">
-      Got selected as <strong>Prime Minister Research Fellow </strong> (PMRF). 
-      <font color="red"><small><i>[ NOV 2022 ]</i></small></font>
+    <p style="font-family:Spectral; color:MidnightBlue"><i>
+      Got selected as <strong>Prime Minister Research Fellow </strong> (PMRF).</i>
+      <font color="red"><sub>[ NOV 2022 ]</sub></font>
     </p>
     </li>
     </ul>
   </div>
-
 
 <div>
   <h3>Interests</h3>
