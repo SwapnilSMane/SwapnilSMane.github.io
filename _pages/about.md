@@ -12,22 +12,29 @@ redirect_from:
 <p align="justify">Swapnil received his master's (M.Tech) degree from the Department of Computer Engineering at the College of Engineering Pune (<a style="text-decoration: none;" href="http://www.coep.org.in/" target="_blank">COEP</a>) in 2021. He received his bachelor's (B.Tech) degree from the Department of Computer Science and Engineering at the Rajarambapu Institute of Technology (<a style="text-decoration: none;" href="https://www.ritindia.edu/" target="_blank">RIT</a>) Islampur, India, in 2019.</p>
 <p align="justify">He is currently researching the domain of cyber-aggressive behavior on Indian social media.</p>
 <div>
-<h3 style="font-family: Spectral; color: midnightblue;">News</h3>
-<!--   <h3>Recent updates</h3> -->
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 100%;">
+<h3 style="font-family: Spectral; color: midnightblue;">Recent Activity</h3>
 <ul style="list-style-type: square;">
 <li>
-<p style="font-family: Spectral; color: midnightblue;"><em> Delivered the <strong>State-of-the-Art seminar on "Aggressive behaviour on social media"</strong> at IITJ.</em> <span style="color: red;"><sub>[ APR 2023 ]</sub></span></p>
+<p style="font-family: Spectral; color: midnightblue;">Delivered the <strong>State-of-the-Art seminar on "Aggressive behaviour on social media"</strong> at IITJ. <span style="color: red;"><sub>[ APR 2023 ]</sub></span></p>
 </li>
 <li>
-<p style="font-family: Spectral; color: midnightblue;"><em> <strong>Poster presented</strong> at IITJ Open House - Padaro 2.0.</em> <span style="color: red;"><sub>[ FEB 2023 ]</sub></span></p>
+<p style="font-family: Spectral; color: midnightblue;"><strong>Poster presented</strong> at IITJ Open House - Padaro 2.0. <span style="color: red;"><sub>[ FEB 2023 ]</sub></span></p>
 </li>
 <li>
-<p style="font-family: Spectral; color: midnightblue;"><em> Successfully cleared the <strong>comprehensive exam</strong>.</em> <span style="color: red;"><sub>[ DEC 2023 ]</sub></span></p>
+<p style="font-family: Spectral; color: midnightblue;">Successfully cleared the <strong>comprehensive exam</strong>. <span style="color: red;"><sub>[ DEC 2023 ]</sub></span></p>
 </li>
 <li>
-<p style="font-family: Spectral; color: midnightblue;"><em> Got selected as <strong>Prime Minister Research Fellow </strong> (PMRF).</em> <span style="color: red;"><sub>[ NOV 2022 ]</sub></span></p>
+<p style="font-family: Spectral; color: midnightblue;">Got selected as <strong>Prime Minister Research Fellow </strong> (PMRF). <span style="color: red;"><sub>[ NOV 2022 ]</sub></span></p>
 </li>
 </ul>
+</td>
+</tr>
+</tbody>
+</table>
 </div>
 <div>
 <h3>Interests</h3>
