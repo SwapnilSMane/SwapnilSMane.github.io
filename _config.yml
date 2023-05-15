@@ -252,10 +252,10 @@ defaults:
       author_profile: true
       share: true
       
- # _gallary
+ # _gallery
   - scope:
       path: ""
-      type: gallary
+      type: gallery
     values:
       layout: single
       author_profile: true
