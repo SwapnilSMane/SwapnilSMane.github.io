@@ -251,6 +251,15 @@ defaults:
       layout: single
       author_profile: true
       share: true
+      
+ # _gallary
+  - scope:
+      path: ""
+      type: gallary
+    values:
+      layout: single
+      author_profile: true
+      share: true
   # _contact
   - scope:
       path: ""
