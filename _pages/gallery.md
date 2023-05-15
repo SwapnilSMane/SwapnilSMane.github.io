@@ -28,8 +28,8 @@ gallery:
     title: "With CSE Ph.D. Scholars at IITJ"
   - url: gallery/ganpati_cel.jpg
     image_path: gallery/ganpati_cel.jpg
-    alt: "Departmental ganpati delibration at CSE IITJ"
-    title: "Departmental ganpati delibration at CSE IITJ"
+    alt: "Departmental ganpati celebration at CSE IITJ"
+    title: "Departmental ganpati celebration at CSE IITJ"
     
 header:
   og_image: "gallery/ganpati_cel.jpg"
