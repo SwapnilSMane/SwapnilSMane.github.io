@@ -16,7 +16,7 @@ redirect_from:
 <tbody>
 <tr>
 <td style="width: 100%;">
-<h3 style="font-family: Spectral; color: midnightblue;">Recent Activity</h3>
+<h3 style="font-family: Spectral; color: midnightblue;">Updates</h3>
 <ul style="list-style-type: square;">
 <li>
 <p style="font-family: Spectral; color: midnightblue;">Delivered the <strong>State-of-the-Art seminar on "Aggressive behaviour on social media"</strong> at IITJ. <span style="color: red;"><sub>[ APR 2023 ]</sub></span></p>
