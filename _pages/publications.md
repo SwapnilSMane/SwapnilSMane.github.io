@@ -10,7 +10,7 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
-<h2>Journals</h2>
+## Journals
   <div>
     <ol type="1">
       <li><p align="justify">
@@ -31,7 +31,7 @@ author_profile: true
       </p></li>
     </ol>
   </div>
-<h2>Conferences</h2>
+## Conferences
   <div>
     <ol type="1">
     <li><p align="justify">
@@ -45,7 +45,7 @@ author_profile: true
     </ol>
    </div>
   
-<h2>Workshops</h2>
+## Workshops
   <div>
     <ol type="1">
     <li><p align="justify">
