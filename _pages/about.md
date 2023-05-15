@@ -16,19 +16,19 @@ redirect_from:
 <tbody>
 <tr>
 <td style="width: 100%;">
-<h3 style="font-family: Spectral; color: midnightblue;">Updates</h3>
+<h3>Updates</h3>
 <ul style="list-style-type: square;">
 <li>
-<p style="font-family: Spectral; color: midnightblue;">Delivered the <strong>State-of-the-Art seminar on "Aggressive behaviour on social media"</strong> at IITJ. <span style="color: red;"><sub>[ APR 2023 ]</sub></span></p>
+<p>Delivered the <strong>State-of-the-Art seminar on "Aggressive behaviour on social media"</strong> at IITJ. <span style="color: red;"><sub>[ APR 2023 ]</sub></span></p>
 </li>
 <li>
-<p style="font-family: Spectral; color: midnightblue;"><strong>Poster presented</strong> at IITJ Open House - Padaro 2.0. <span style="color: red;"><sub>[ FEB 2023 ]</sub></span></p>
+<p><strong>Poster presented</strong> at IITJ Open House - Padaro 2.0. <span style="color: red;"><sub>[ FEB 2023 ]</sub></span></p>
 </li>
 <li>
-<p style="font-family: Spectral; color: midnightblue;">Successfully cleared the <strong>comprehensive exam</strong>. <span style="color: red;"><sub>[ DEC 2023 ]</sub></span></p>
+<p>Successfully cleared the <strong>comprehensive exam</strong>. <span style="color: red;"><sub>[ DEC 2023 ]</sub></span></p>
 </li>
 <li>
-<p style="font-family: Spectral; color: midnightblue;">Got selected as <strong>Prime Minister Research Fellow </strong> (PMRF). <span style="color: red;"><sub>[ NOV 2022 ]</sub></span></p>
+<p>Got selected as <strong>Prime Minister Research Fellow </strong> (PMRF). <span style="color: red;"><sub>[ NOV 2022 ]</sub></span></p>
 </li>
 </ul>
 </td>
