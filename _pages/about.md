@@ -8,55 +8,34 @@ redirect_from:
   - /about.html
 ---
 
-
-<p align="justify">
-  <strong>Swapnil Mane</strong> is a <a href="https://cse.iitj.ac.in/index.php/people/phd-students" target="_blank" style="text-decoration:none;">PMRF research scholar</a> in the Department of Computer Science and Engineering at the <a href="https://www.iitj.ac.in/" target="_blank" style="text-decoration:none;">Indian Institute of Technology Jodhpur (IIT Jodhpur)</a>. He is working in the research group SoNAA: Social Network Analysis and Application led by <a href="https://sumankundu.info/" target="_blank" style="text-decoration:none;">Dr. Suman Kundu</a>, Assistant Professor at IIT, Jodhpur. The research group is part of the Cognitive and Social Analytics Lab (<a href="https://www.csa-iitj.group/" target="_blank" style="text-decoration:none;">CSA Lab</a>), affiliated with the Department of Computer Science and Engineering at IIT, Jodhpur. Swapnil is also working closely with <a href="https://rajeshsharma.cs.ut.ee/" target="_blank" style="text-decoration:none;">Dr. Rajesh Sharma</a>, Associate Professor of the Institute of Computer Science at the University of Tartu, Estonia. </p>
-
-<p align="justify">
-Swapnil received his master's (M.Tech) degree from the Department of Computer Engineering at the College of Engineering Pune (<a href="http://www.coep.org.in/" target="_blank" style="text-decoration:none;">COEP</a>) in 2021. He received his bachelor's (B.Tech) degree from the Department of Computer Science and Engineering at the Rajarambapu Institute of Technology (<a href="https://www.ritindia.edu/" target="_blank" style="text-decoration:none;">RIT</a>) Islampur, India, in 2019.
-</p>
-
-<p align="justify">
-He is currently researching the domain of cyber-aggressive behavior on Indian social media.  </p>
-
+<p align="justify"><strong>Swapnil Mane</strong> is a <a style="text-decoration: none;" href="https://cse.iitj.ac.in/index.php/people/phd-students" target="_blank">PMRF research scholar</a> in the Department of Computer Science and Engineering at the <a style="text-decoration: none;" href="https://www.iitj.ac.in/" target="_blank">Indian Institute of Technology Jodhpur (IIT Jodhpur)</a>. He is working in the research group SoNAA: Social Network Analysis and Application led by <a style="text-decoration: none;" href="https://sumankundu.info/" target="_blank">Dr. Suman Kundu</a>, Assistant Professor at IIT, Jodhpur. The research group is part of the Cognitive and Social Analytics Lab (<a style="text-decoration: none;" href="https://www.csa-iitj.group/" target="_blank">CSA Lab</a>), affiliated with the Department of Computer Science and Engineering at IIT, Jodhpur. Swapnil is also working closely with <a style="text-decoration: none;" href="https://rajeshsharma.cs.ut.ee/" target="_blank">Dr. Rajesh Sharma</a>, Associate Professor of the Institute of Computer Science at the University of Tartu, Estonia.</p>
+<p align="justify">Swapnil received his master's (M.Tech) degree from the Department of Computer Engineering at the College of Engineering Pune (<a style="text-decoration: none;" href="http://www.coep.org.in/" target="_blank">COEP</a>) in 2021. He received his bachelor's (B.Tech) degree from the Department of Computer Science and Engineering at the Rajarambapu Institute of Technology (<a style="text-decoration: none;" href="https://www.ritindia.edu/" target="_blank">RIT</a>) Islampur, India, in 2019.</p>
+<p align="justify">He is currently researching the domain of cyber-aggressive behavior on Indian social media.</p>
 <div>
-  <h3 style="font-family:Spectral; color:MidnightBlue"> News</h3>
+<h3 style="font-family: Spectral; color: midnightblue;">News</h3>
 <!--   <h3>Recent updates</h3> -->
-  <ul>
-    <li>
-    <p style="font-family:Spectral; color:MidnightBlue"><i>
-      Delivered the <strong>State-of-the-Art seminar on "Aggressive behaviour on social media"</strong> at IITJ.</i>
-      <font color="red"><sub>[ APR 2023 ]</sub></font>
-    </p>
-     </li>
-    <li>
-    <p style="font-family:Spectral; color:MidnightBlue"><i>
-      <strong>Poster presented</strong> at IITJ Open House - Padaro 2.0.</i>
-      <font color="red"><sub>[ FEB 2023 ]</sub></font>
-    </p>
-    </li>
-    <li>
-    <p style="font-family:Spectral; color:MidnightBlue"><i>
-      Successfully cleared the <strong>comprehensive exam</strong>.</i>
-      <font color="red"><sub>[ DEC 2023 ]</sub></font>
-    </p>
-    </li>
-  <li>
-    <p style="font-family:Spectral; color:MidnightBlue"><i>
-      Got selected as <strong>Prime Minister Research Fellow </strong> (PMRF).</i>
-      <font color="red"><sub>[ NOV 2022 ]</sub></font>
-    </p>
-    </li>
-    </ul>
-  </div>
-
+<ul style="list-style-type: square;">
+<li>
+<p style="font-family: Spectral; color: midnightblue;"><em> Delivered the <strong>State-of-the-Art seminar on "Aggressive behaviour on social media"</strong> at IITJ.</em> <span style="color: red;"><sub>[ APR 2023 ]</sub></span></p>
+</li>
+<li>
+<p style="font-family: Spectral; color: midnightblue;"><em> <strong>Poster presented</strong> at IITJ Open House - Padaro 2.0.</em> <span style="color: red;"><sub>[ FEB 2023 ]</sub></span></p>
+</li>
+<li>
+<p style="font-family: Spectral; color: midnightblue;"><em> Successfully cleared the <strong>comprehensive exam</strong>.</em> <span style="color: red;"><sub>[ DEC 2023 ]</sub></span></p>
+</li>
+<li>
+<p style="font-family: Spectral; color: midnightblue;"><em> Got selected as <strong>Prime Minister Research Fellow </strong> (PMRF).</em> <span style="color: red;"><sub>[ NOV 2022 ]</sub></span></p>
+</li>
+</ul>
+</div>
 <div>
-  <h3>Interests</h3>
-  <ul>
-  <li>Natural Language Processing</li>
-  <li>Social Network Analysis</li>
-  <li>Computational Social Science</li>
-  <li>Network Data Science</li>
-  <li>Knowledge Graphs</li>    
-  </ul>
+<h3>Interests</h3>
+<ul>
+<li>Natural Language Processing</li>
+<li>Social Network Analysis</li>
+<li>Computational Social Science</li>
+<li>Network Data Science</li>
+<li>Knowledge Graphs</li>
+</ul>
 </div>
