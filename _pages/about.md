@@ -17,7 +17,7 @@ redirect_from:
 <h3>News</h3>
 <ul style="list-style-type: square;">
 <li>
-<p><strong>[ APR 2023 ]</strong>strong> Delivered the <strong>State-of-the-Art seminar on "Aggressive behaviour on social media"</strong> at IITJ. <span style="color: red;"><sub>New</sub></span></p>
+<p><strong>[ APR 2023 ]</strong>strong> Delivered the <strong>State-of-the-Art seminar on "Aggressive behaviour on social media"</strong> at IITJ. <blink><sub>New</sub></blink></p>
 </li>
 <li>
 <p><strong>[ FEB 2023 ]</strong> Poster presented at IITJ Open House - Padaro 2.0. </p>
