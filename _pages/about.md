@@ -34,7 +34,7 @@ redirect_from:
 
 
 <div>
-## Interests
+<h3> Interests </h3>
 <ul>
 <li>Natural Language Processing</li>
 <li>Social Network Analysis</li>
