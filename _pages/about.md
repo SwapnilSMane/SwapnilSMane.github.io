@@ -14,46 +14,21 @@ redirect_from:
 
 
 <div class="news-scroll" markdown="1">
-## News
-- **[April 2023]** A paper on flowchart to code generation got accepted in [**ICDAR 2023**](https://icdar2023.org/important-dates/). 
-- **[March 2023]** I will serve as a reviewer for NuerIPS 2023.  
-- **[March 2023]** Awarded Google, Microsoft, CVPR DEI, and ACM Travel Grant for attending CVPR 2023 in Vancouver, Canada. 
-- **[Feb 2023]** My work on Few-shot Referring Relatiohsip got accepted in [**CVPR 2023**](https://cvpr2023.thecvf.com/). 
-- **[Jan 2023]** Presented state-of-the-Art Seminar (SOTA) on Interpreting Video Content using Limited Labels. 
-- **[Dec 2022]** Given a tutorial on Sequence Models during 1st Winter School on Responsible AI organized by IIT Jodhpur. 
-- **[Dec 2022]** Attended ICVGIP 2022 at IIT Gandhinagar. 
-- **[Sep 2022]** Presented my work during Youth Conclave organized by INAE-SERB, IIT Jodhpur 2022. 
-- **[Jun 2022]** Attended CVPR 2022 virtually.
-- **[April 2022]** Awarded CVPR 2022 Registration Waiver.
-- **[Jan 2022]** Selected for attending the Research Week with Google in CV track.
-- **[Dec 2021]** Attended ICVGIP 2022 at IIT Jodhpur. 
-
-</div>
-
-<div class="news-scroll" markdown="1">
-<table style="border-collapse: collapse; width: 100%;" border="1">
-<tbody>
-<tr>
-<td style="width: 100%;">
-<h3>Updates</h3>
+<h3>News</h3>
 <ul style="list-style-type: square;">
 <li>
-<p>Delivered the <strong>State-of-the-Art seminar on "Aggressive behaviour on social media"</strong> at IITJ. <span style="color: red;"><sub>[ APR 2023 ]</sub></span></p>
+<p><strong>[ APR 2023 ]</strong>strong> Delivered the <strong>State-of-the-Art seminar on "Aggressive behaviour on social media"</strong> at IITJ. <span style="color: red;"><sub>New</sub></span></p>
 </li>
 <li>
-<p><strong>Poster presented</strong> at IITJ Open House - Padaro 2.0. <span style="color: red;"><sub>[ FEB 2023 ]</sub></span></p>
+<p><strong>[ FEB 2023 ]</strong> Poster presented at IITJ Open House - Padaro 2.0. </p>
 </li>
 <li>
-<p>Successfully cleared the <strong>comprehensive exam</strong>. <span style="color: red;"><sub>[ DEC 2023 ]</sub></span></p>
+<p><strong>[ DEC 2023 ]</strong> Successfully cleared the comprehensive exam.</p>
 </li>
 <li>
-<p>Got selected as <strong>Prime Minister Research Fellow </strong> (PMRF). <span style="color: red;"><sub>[ NOV 2022 ]</sub></span></p>
+<p><strong>[ NOV 2022 ]</strong> Got selected as Prime Minister Research Fellow (PMRF). </p>
 </li>
 </ul>
-</td>
-</tr>
-</tbody>
-</table>
 </div>
 
 
