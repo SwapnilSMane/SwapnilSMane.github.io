@@ -12,9 +12,9 @@ redirect_from:
 <p align="justify">Swapnil received his master's (M.Tech) degree from the Department of Computer Engineering at the College of Engineering Pune (<a style="text-decoration: none;" href="http://www.coep.org.in/" target="_blank">COEP</a>) in 2021. He received his bachelor's (B.Tech) degree from the Department of Computer Science and Engineering at the Rajarambapu Institute of Technology (<a style="text-decoration: none;" href="https://www.ritindia.edu/" target="_blank">RIT</a>) Islampur, India, in 2019.</p>
 <p align="justify">He is currently researching the domain of cyber-aggressive behavior on Indian social media.</p>
 
-<h3>News</h3>
-<br>
+
 <div class="news-scroll" markdown="1">
+## News
 <ul style="list-style-type: square;">
 <li>
 <p><strong>[APR 2023]</strong> Delivered the State-of-the-Art seminar on "Aggressive behaviour on social media" at IITJ. <blink><sub>New</sub></blink></p>
