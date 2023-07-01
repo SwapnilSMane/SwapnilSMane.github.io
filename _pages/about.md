@@ -17,16 +17,16 @@ redirect_from:
 <h3>News</h3>
 <ul style="list-style-type: square;">
 <li>
-<p><strong>[ APR 2023 ]</strong>strong> Delivered the <strong>State-of-the-Art seminar on "Aggressive behaviour on social media"</strong> at IITJ. <blink><sub>New</sub></blink></p>
+<p><strong>[APR 2023]</strong> Delivered the State-of-the-Art seminar on "Aggressive behaviour on social media" at IITJ. <blink><sub>New</sub></blink></p>
 </li>
 <li>
-<p><strong>[ FEB 2023 ]</strong> Poster presented at IITJ Open House - Padaro 2.0. </p>
+<p><strong>[FEB 2023]</strong> Poster presented at IITJ Open House - Padaro 2.0. </p>
 </li>
 <li>
-<p><strong>[ DEC 2023 ]</strong> Successfully cleared the comprehensive exam.</p>
+<p><strong>[DEC 2023]</strong> Successfully cleared the comprehensive exam.</p>
 </li>
 <li>
-<p><strong>[ NOV 2022 ]</strong> Got selected as Prime Minister Research Fellow (PMRF). </p>
+<p><strong>[NOV 2022]</strong> Got selected as Prime Minister Research Fellow (PMRF). </p>
 </li>
 </ul>
 </div>
