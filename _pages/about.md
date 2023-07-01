@@ -19,7 +19,7 @@ redirect_from:
 <tr>
 <td style="width: 100%;">
 <h3>Updates</h3>
-<ul style="list-style-type: square;">
+<!-- <ul style="list-style-type: square;"> -->
 <li>
 <p>Delivered the <strong>State-of-the-Art seminar on "Aggressive behaviour on social media"</strong> at IITJ. <span style="color: red;"><sub>[ APR 2023 ]</sub></span></p>
 </li>
@@ -32,7 +32,7 @@ redirect_from:
 <li>
 <p>Got selected as <strong>Prime Minister Research Fellow </strong> (PMRF). <span style="color: red;"><sub>[ NOV 2022 ]</sub></span></p>
 </li>
-</ul>
+<!-- </ul> -->
 </td>
 </tr>
 </tbody>
