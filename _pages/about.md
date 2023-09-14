@@ -17,6 +17,9 @@ redirect_from:
 ## News
 <ul style="list-style-type: square;">
 <li>
+<p><strong>[SEPT 2023]</strong> Got Outstanding TA (Teaching Assistant) Award 2022-23 at IITJ. <span style="color: red;"><sub>New</sub></span></p>
+</li>
+<li>
 <p><strong>[JUL 2023]</strong> Presented Research Proposal (RP) to address aggressive behavior on social media at IITJ. <span style="color: red;"><sub>New</sub></span></p>
 </li>
 <li>
