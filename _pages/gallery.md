@@ -18,6 +18,10 @@ gallery:
     image_path: gallery/poster_4.jpg
     alt: "Poster presented at IITJ Open House - Padharo 2.0 - Day 2"
     title: "Poster presented at IITJ Open House - Padharo 2.0 - Day 2"
+  - url: gallery/lec_1.jpg
+    image_path: gallery/lec_1.jpeg
+    alt: "Delivering a lecture at Government Polytechnic College, Jodhpur"
+    title: "Delivering a lecture at Government Polytechnic College, Jodhpur"
   - url: gallery/with_labmets.jpg
     image_path: gallery/with_labmets.jpg
     alt: "Dinner with Dr. Suman and labmates"
