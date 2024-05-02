@@ -13,17 +13,8 @@ author_profile: true
 ## Journals
   <div>
     <ol type="1">
-      <li><p align="justify">
-      Mane S, Khatavkar V. <i><strong>POLARITY BASED SARCASM DETECTION USING SEMIGRAPH</strong></i>. arXiv preprint arXiv:2304.01424. 2021.
-      <a href="https://arxiv.org/abs/2304.01424" target="_blank"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
-      </p></li>
     <li><p align="justify">
-      Mane S, Khatavkar V. <i><strong>THEMATIC CONTEXT VECTOR ASSOCIATION BASED ON EVENT UNCERTAINTY FOR TWITTER</strong></i>. arXiv preprint arXiv:2304.01424. 2021.
-      <a href="https://arxiv.org/abs/2304.01423" target="_blank"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
-      </p></li>
-    <li><p align="justify">
-      Mane S., Khatavkar V., <i><strong>RESEARCHERS EYE-VIEW OF SARCASM
-      DETECTION IN SOCIAL MEDIA TEXTUAL CONTENT</strong></i>, International Journal of
+      Mane S., Khatavkar V., <i><strong>Researchers eye-view of sarcasm detection in social media textual content</strong></i>, International Journal of
       Creative Research Thoughts (IJCRT), ISSN:2320-2882, Volume.9, Issue 8,
       pp.150-157, August 2021. 
       <a href="https://arxiv.org/abs/2304.08582" target="_blank"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
@@ -34,14 +25,35 @@ author_profile: true
 ## Conferences
   <div>
     <ol type="1">
+      <li><p align="justify">
+      Mane S., Khatavkar V., <i><strong>THEMATIC CONTEXT VECTOR ASSOCIATION BASED ON EVENT UNCERTAINTY FOR TWITTER</strong></i>. arXiv preprint arXiv:2304.01424. 2023.  (NICEDT'23) <i> [Accepted]</i> 
+      <a href="https://arxiv.org/abs/2304.01423" target="_blank"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
+      </p></li>
     <li><p align="justify">
-      Mane S., Khatavkar V., <strong>Researchers eye-view of sarcasm detection in social media textual content.</strong> In International Conference on Computing and Applied Engineering (ICCAE2021) <i> [Accepted]</i> </p> 
+      Mane S., Khatavkar V., <strong>Researchers eye-view of sarcasm detection in social media textual content</strong>. In International Conference on Computing and Applied Engineering (ICCAE2021) <i> [Presented]</i> </p> 
     </li>
     <li><p align="justify">
       Mane S., Khatavkar V., <strong>Effective feature extraction for intrusion detection systems using non-negative matrix factorization and univariate analysis.</strong> In International conference SACAIM 2021 <i>[Presented]</i> 
        <a href="https://arxiv.org/abs/2304.01166" target="_blank"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
     </p>
      </li>
+    </ol>
+   </div>
+## Preprints
+  <div>
+    <ol type="1">
+      <li><p align="justify">
+      Mane S., Kundu S., Sharma R., <i><strong>You are what your feeds makes you: A study of user aggressive behaviour on Twitter</strong></i>.(Communicated in Applied Intelligence)
+      <a href="https://arxiv.org/abs/2304.01424" target="_blank"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
+      </p></li>
+      <li><p align="justify">
+      Mane S., Kundu S., Sharma R., <i><strong>Survey on Online User Aggression: Content Detection and Behavioural Analysis on Social Media Platforms</strong></i>. (Communicated in ACM CSUR)
+      <a href="https://arxiv.org/abs/2304.01424" target="_blank"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
+      </p></li>
+      <li><p align="justify">
+      Mane S., Khatavkar V., <i><strong>Polarity based Sarcasm Detection using Semigraph</strong></i>. arXiv preprint arXiv:2304.01424. 2021.
+      <a href="https://arxiv.org/abs/2304.01424" target="_blank"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
+      </p></li>
     </ol>
    </div>
   
