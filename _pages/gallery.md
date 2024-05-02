@@ -22,14 +22,14 @@ gallery:
     image_path: gallery/lec_1.jpeg
     alt: "Delivering a lecture at Government Polytechnic College, Jodhpur"
     title: "Delivering a lecture at Government Polytechnic College, Jodhpur"
-  - url: gallery/with_labmets.jpg
-    image_path: gallery/with_labmets.jpg
-    alt: "Dinner with Dr. Suman and labmates"
-    title: "Dinner with Dr. Suman and labmates"
   - url: gallery/cse_group.png
     image_path: gallery/cse_group.png
     alt: "With CSE Ph.D. Scholars at IITJ"
     title: "With CSE Ph.D. Scholars at IITJ"
+  - url: gallery/with_labmets.jpg
+    image_path: gallery/with_labmets.jpg
+    alt: "Dinner with Dr. Suman and labmates"
+    title: "Dinner with Dr. Suman and labmates"
   - url: gallery/ganpati_cel.jpg
     image_path: gallery/ganpati_cel.jpg
     alt: "Departmental ganpati celebration at CSE IITJ"
