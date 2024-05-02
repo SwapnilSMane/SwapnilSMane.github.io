@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p align="justify"><strong>Swapnil Mane</strong> is a Doctoral PMRF Research Scholar at the Indian Institute of Technology Jodhpur (<a style="text-decoration: none;" href="https://www.iitj.ac.in/" target="_blank">IIT Jodhpur</a>), pursuing his Ph.D. in the <a style="text-decoration: none;" href="https://cse.iitj.ac.in/index.php/people/phd-students" target="_blank">Department of Computer Science and Engineering.</a>
-His research is conducted under the guidance of <a style="text-decoration: none;" href="https://sumankundu.info/" target="_blank">Dr. Suman Kundu </a>, Assistant Professor at IIT Jodhpur, and <a style="text-decoration: none;" href="https://rajeshsharma.cs.ut.ee/" target="_blank">Dr. Rajesh Sharma </a>, Associate Professor at the University of Tartu, Estonia. Swapnil's work is part of the SoNAA research group, which focuses on Social Network Analysis and Applications.</p>
+His research is conducted under the guidance of <a style="text-decoration: none;" href="https://sumankundu.info/" target="_blank">Dr. Suman Kundu</a>, Assistant Professor at IIT Jodhpur, and <a style="text-decoration: none;" href="https://rajeshsharma.cs.ut.ee/" target="_blank">Dr. Rajesh Sharma</a>, Associate Professor at the University of Tartu, Estonia. Swapnil's work is part of the SoNAA research group, which focuses on Social Network Analysis and Applications.</p>
 
 <p align="justify">
 Swapnil's research delves into the domain of cyber-aggressive behavior in the Indian multilingual context, aiming to understand and mitigate the propagation of online aggression and toxicity. 
