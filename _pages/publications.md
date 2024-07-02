@@ -46,11 +46,11 @@ author_profile: true
     <ol type="1">
       <li><p align="justify">
       Mane S., Kundu S., Sharma R., <strong>You are what your feeds makes you: A study of user aggressive behaviour on Twitter</strong>. <i>(Communicated in Applied Intelligence)</i>
-      <a href="https://arxiv.org/abs/2304.01424" target="_blank"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
+      <a href="https://d197for5662m48.cloudfront.net/documents/publicationstatus/169520/preprint_pdf/c4457e954d5dd4557500c49f2ec4f5b4.pdf" target="_blank"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
       </p></li>
       <li><p align="justify">
       Mane S., Kundu S., Sharma R., <strong>Survey on Online User Aggression: Content Detection and Behavioural Analysis on Social Media Platforms</strong>. <i>(Communicated in ACM CSUR)</i>
-      <a href="https://arxiv.org/abs/2304.01424" target="_blank"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
+      <a href="https://arxiv.org/abs/2311.09367" target="_blank"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
       </p></li>
       <li><p align="justify">
       Mane S., Khatavkar V., <strong>Polarity based Sarcasm Detection using Semigraph</strong>.
