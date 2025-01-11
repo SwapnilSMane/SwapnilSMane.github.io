@@ -13,6 +13,10 @@ author_profile: true
 ## Journals
   <div>
     <ol type="1">
+      <li><p align="justify">
+      Swapnil Mane, Suman Kundu, and Rajesh Sharma. 2025. <strong>A Survey on Online Aggression: Content Detection and Behavioural Analysis on Social Media Platforms.</strong> ACM Computing Survey Just Accepted (January 2025). 
+      <a href="https://doi.org/10.1145/3711125" target="_blank"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
+      </p></li>
     <li><p align="justify">
       Mane S., Khatavkar V., <strong>Researchers eye-view of sarcasm detection in social media textual content</strong>, International Journal of
       Creative Research Thoughts (IJCRT), ISSN:2320-2882, Volume.9, Issue 8,
@@ -27,14 +31,17 @@ author_profile: true
   <div>
     <ol type="1">
       <li><p align="justify">
-      Mane S., Khatavkar V., <strong>Thematic context vector association based on event uncertainty for Twitter</strong>. arXiv preprint arXiv:2304.01424. 2023.  (NICEDT'23) <i> [Accepted]</i> 
+      Swapnil Mane, Suman Kundu, and Rajesh Sharma, <strong>TSGAN: Temporal Social Graph Attention Network for Aggressive Behavior Forecasting</strong>. AAAI 2025.
+      </p></li>
+      <li><p align="justify">
+      Mane S., Khatavkar V., <strong>Thematic context vector association based on event uncertainty for Twitter</strong>. arXiv preprint arXiv:2304.01424. 2023.  (NICEDT'23)
       <a href="https://arxiv.org/abs/2304.01423" target="_blank"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
       </p></li>
     <li><p align="justify">
-      Mane S., Khatavkar V., <strong>Researchers eye-view of sarcasm detection in social media textual content</strong>. In International Conference on Computing and Applied Engineering (ICCAE'21) <i> [Presented]</i> </p> 
+      Mane S., Khatavkar V., <strong>Researchers eye-view of sarcasm detection in social media textual content</strong>. In International Conference on Computing and Applied Engineering (ICCAE'21) </p> 
     </li>
     <li><p align="justify">
-      Mane S., Khatavkar V., <strong>Effective feature extraction for intrusion detection systems using non-negative matrix factorization and univariate analysis.</strong> In International conference (SACAIM'21) <i>[Presented]</i> 
+      Mane S., Khatavkar V., <strong>Effective feature extraction for intrusion detection systems using non-negative matrix factorization and univariate analysis.</strong> In International conference (SACAIM'21) 
        <a href="https://arxiv.org/abs/2304.01166" target="_blank"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
     </p>
      </li>
