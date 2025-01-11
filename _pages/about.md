@@ -19,7 +19,7 @@ redirect_from:
 Forecasting has been accepted to <strong>AAAI 2025</strong>. <span style="color: red;"><sub>New</sub></span></p>
 </li>
 <li>
-<p><strong>[DEC 2024]</strong> Our paper titled A Survey on Online Aggression: Content Detection and Behavioural Analysis on Social Media Platforms has been accepted to <strong>ACM Computing Surveys</strong>. <span style="color: red;"><sub>New</sub></span></p>
+<p><strong>[DEC 2024]</strong> Our paper titled <a style="text-decoration: none;" href="https://dl.acm.org/doi/abs/10.1145/3711125" target="_blank">A Survey on Online Aggression: Content Detection and Behavioural Analysis on Social Media Platforms</a> has been accepted to <strong>ACM Computing Surveys</strong>. <span style="color: red;"><sub>New</sub></span></p>
 </li>
 <li>
 <p><strong>[SEPT 2023]</strong> Got Outstanding Teaching Assistant (TA) Award 2022-23 at IITJ. </p>
