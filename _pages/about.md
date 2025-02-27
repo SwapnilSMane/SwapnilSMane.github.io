@@ -15,6 +15,9 @@ redirect_from:
 ## News
 <ul style="list-style-type: square;">
 <li>
+<p><strong>[JAN 2025]</strong> Our paper titled <a style="text-decoration: none;" href="https://link.springer.com/article/10.1007/s10489-025-06286-8" target="_blank">You are what your feeds make you: A study of user aggressive behavior on Twitter</a> has been accepted to <strong>Applied Intelligence</strong>. <span style="color: red;"><sub>New</sub></span></p>
+</li>
+<li>
 <p><strong>[DEC 2024]</strong> Our paper titled TSGAN: Temporal Social Graph Attention Network for Aggressive Behavior
 Forecasting has been accepted to <strong>AAAI 2025</strong>. <span style="color: red;"><sub>New</sub></span></p>
 </li>
