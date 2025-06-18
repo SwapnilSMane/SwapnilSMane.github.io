@@ -36,6 +36,7 @@ author_profile: true
     <ol type="1">
       <li><p align="justify">
       Swapnil Mane, Suman Kundu, and Rajesh Sharma, <strong>TSGAN: Temporal Social Graph Attention Network for Aggressive Behavior Forecasting</strong>. AAAI 2025.
+        <a href="https://doi.org/10.1609/aaai.v39i27.35045" target="_blank"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
       </p></li>
       <li><p align="justify">
       Mane S., Khatavkar V., <strong>Thematic context vector association based on event uncertainty for Twitter</strong>. arXiv preprint arXiv:2304.01424. 2023.  (NICEDT'23)
