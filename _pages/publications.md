@@ -14,7 +14,11 @@ author_profile: true
   <div>
     <ol type="1">
       <li><p align="justify">
-      Swapnil Mane, Suman Kundu, and Rajesh Sharma. 2025. <strong>A Survey on Online Aggression: Content Detection and Behavioural Analysis on Social Media Platforms.</strong> ACM Computing Survey Just Accepted (January 2025). 
+      Swapnil Mane, Suman Kundu, and Rajesh Sharma. 2025. <strong>A Survey on Online Aggression: Content Detection and Behavioural Analysis on Social Media Platforms.</strong> Applied Intelligence  Just Accepted (January 2025). 
+      <a href="https://doi.org/10.1145/3711125" target="_blank"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
+      </p></li>
+      <li><p align="justify">
+      Swapnil Mane, Suman Kundu, and Rajesh Sharma. 2025. <strong>You are what your feeds make you: A study of user aggressive behavior on Twitter.</strong> ACM Computing Survey Just Accepted (January 2025). 
       <a href="https://doi.org/10.1145/3711125" target="_blank"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
       </p></li>
     <li><p align="justify">
