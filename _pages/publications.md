@@ -34,6 +34,9 @@ author_profile: true
 ## Conferences
   <div>
     <ol type="1">
+    <li><p align="justify">
+      Swapnil Mane, Suman Kundu, and Rajesh Sharma, <strong>IndicAG: An Explainable Agentic Framework for Indic-Multilingual Multidimensional Aggression Detection.</strong> Accepted at WWW 2025. 
+      </p></li>
       <li><p align="justify">
       Swapnil Mane, Suman Kundu, and Rajesh Sharma, <strong>TSGAN: Temporal Social Graph Attention Network for Aggressive Behavior Forecasting</strong>. Accepted at AAAI 2025.
         <a href="https://doi.org/10.1609/aaai.v39i27.35045" target="_blank"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
