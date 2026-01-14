@@ -8,12 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-<p align="justify">I'm a PMRF Ph.D. scholar in the Social Network Analysis and Application Group (SoNAA) led by <a style="text-decoration: none;" href="https://sumankundu.info/" target="_blank">Dr. Suman Kundu</a> at IIT Jodhpur and collaborating with <a style="text-decoration: none;" href="https://rajeshsharma.cs.ut.ee/" target="_blank">Dr. Rajesh Sharma</a>. I'm a data science enthusiast working on solving interesting problems in the intersection of GNN, NLP, and KG. Specifically, I work on temporal GNN, LLM, and KG. Currently working on detecting, analyzing, and predicting user aggression in Indic languages on social media.</p>
+<p align="justify">I'm a PMRF Ph.D. scholar in the Social Network Analysis and Application Group (SoNAA) led by <a style="text-decoration: none;" href="https://sumankundu.info/" target="_blank">Dr. Suman Kundu</a> at IIT Jodhpur (Currently at IIT Madras) and collaborating with <a style="text-decoration: none;" href="https://rajeshsharma.cs.ut.ee/" target="_blank">Dr. Rajesh Sharma</a>. My research lies at the intersection of natural language processing, graph-based learning (Graph Neural Networks), and social computing. It focuses on developing knowledge-augmented (Retrieval Augmented Generation), LLM-based, and graph-based models to understand and forecast user aggression on social media by integrating textual, social, and temporal signals for robust, explainable, and multilingual analysis.</p>
 
 
 <div class="news-scroll" markdown="1">
 ## News
 <ul style="list-style-type: square;">
+<li>
+<p><strong>[JAN 2026]</strong> Our paper titled "IndicAG: An Explainable Agentic Framework for Indic-Multilingual Multidimensional Aggression Detection" has been accepted to <strong>WWW 2026</strong>. <span style="color: red;"><sub>New</sub></span></p>
+</li>
 <li>
 <p><strong>[JAN 2025]</strong> Our paper titled <a style="text-decoration: none;" href="https://link.springer.com/article/10.1007/s10489-025-06286-8" target="_blank">You are what your feeds make you: A study of user aggressive behavior on Twitter</a> has been accepted to <strong>Applied Intelligence</strong>. <span style="color: red;"><sub>New</sub></span></p>
 </li>
