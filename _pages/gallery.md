@@ -1,4 +1,8 @@
 ---
+published: false
+---
+
+---
 permalink: /gallery/
 title: "Gallery"
 gallery:
