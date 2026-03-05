@@ -4,63 +4,21 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+.publication{
+  margin-bottom:18px;
+  line-height:1.5;
+}
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
 {% include base_path %}
-## Journals
-  <div>
-    <ol type="1">
-      <li><p align="justify">
-      Swapnil Mane, Suman Kundu, and Rajesh Sharma. 2025. <strong>You are what your feeds make you: A study of user aggressive behavior on Twitter.</strong> Applied Intelligence  Just Accepted (January 2025). 
-      <a href="https://link.springer.com/article/10.1007/s10489-025-06286-8" target="_blank"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
-      </p></li>
-      <li><p align="justify">
-      Swapnil Mane, Suman Kundu, and Rajesh Sharma. 2025. <strong>A Survey on Online Aggression: Content Detection and Behavioural Analysis on Social Media Platforms.</strong> ACM Computing Survey Just Accepted (January 2025). 
-      <a href="https://doi.org/10.1145/3711125" target="_blank"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
-      </p></li>
-    <li><p align="justify">
-      Mane S., Khatavkar V., <strong>Researchers eye-view of sarcasm detection in social media textual content</strong>, International Journal of
-      Creative Research Thoughts (IJCRT), ISSN:2320-2882, Volume.9, Issue 8,
-      pp.150-157, August 2021. 
-      <a href="https://arxiv.org/abs/2304.08582" target="_blank"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
-<!--       <a href="https://arxiv.org/pdf/2304.08582.pdf"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a> -->
-      </p></li>
-    </ol>
-  </div>
-  
-## Conferences
-  <div>
-    <ol type="1">
-    <li><p align="justify">
-      Swapnil Mane, Suman Kundu, and Rajesh Sharma, <strong>IndicAG: An Explainable Agentic Framework for Indic-Multilingual Multidimensional Aggression Detection.</strong> Accepted at WWW 2025. 
-      </p></li>
-      <li><p align="justify">
-      Swapnil Mane, Suman Kundu, and Rajesh Sharma, <strong>TSGAN: Temporal Social Graph Attention Network for Aggressive Behavior Forecasting</strong>. Accepted at AAAI 2025.
-        <a href="https://doi.org/10.1609/aaai.v39i27.35045" target="_blank"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
-      </p></li>
-      <li><p align="justify">
-      Mane S., Khatavkar V., <strong>Thematic context vector association based on event uncertainty for Twitter</strong>. arXiv preprint arXiv:2304.01424. 2023.  (NICEDT'23)
-      <a href="https://arxiv.org/abs/2304.01423" target="_blank"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
-      </p></li>
-    <li><p align="justify">
-      Mane S., Khatavkar V., <strong>Researchers eye-view of sarcasm detection in social media textual content</strong>. In International Conference on Computing and Applied Engineering (ICCAE'21) </p> 
-    </li>
-    <li><p align="justify">
-      Mane S., Khatavkar V., <strong>Effective feature extraction for intrusion detection systems using non-negative matrix factorization and univariate analysis.</strong> In International conference (SACAIM'21) 
-       <a href="https://arxiv.org/abs/2304.01166" target="_blank"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
-    </p>
-     </li>
-    </ol>
-   </div>
-
 
 
 <!-- <h2>Publications</h2> -->
 
-<h3>Conference Papers</h3>
+<h3>Conference</h3>
 
 <div class="publication">
 <b>Swapnil Mane</b>, Suman Kundu, Rajesh Sharma.
@@ -132,7 +90,7 @@ Effective Feature Extraction for Intrusion Detection Systems using Non-negative 
 
 
 
-<h3>Journal Articles</h3>
+<h3>Journals</h3>
 
 <div class="publication">
 <b>Swapnil Mane</b>, Suman Kundu, Rajesh Sharma.
