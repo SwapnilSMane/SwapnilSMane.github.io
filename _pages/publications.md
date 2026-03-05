@@ -1,16 +1,20 @@
-₹---
+---
 layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+
+<style>
 .publication{
   margin-bottom:18px;
   line-height:1.5;
 }
+</style>
 
 {% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+You can also find my articles on 
+<u><a href="{{ author.googlescholar }}" target="_blank">my Google Scholar profile</a></u>.
 {% endif %}
 
 {% include base_path %}
