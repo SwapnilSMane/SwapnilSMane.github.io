@@ -22,7 +22,7 @@ You can also find my articles on
 
 <!-- <h2>Publications</h2> -->
 
-<h3>Conference</h3>
+<h2>Conference</h2>
 
 <div class="publication">
 <b>Swapnil Mane</b>, Suman Kundu, Rajesh Sharma.
@@ -94,7 +94,7 @@ Effective Feature Extraction for Intrusion Detection Systems using Non-negative 
 
 
 
-<h3>Journals</h3>
+<h2>Journals</h2>
 
 <div class="publication">
 <b>Swapnil Mane</b>, Suman Kundu, Rajesh Sharma.
