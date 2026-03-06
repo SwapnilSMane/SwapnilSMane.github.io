@@ -89,13 +89,13 @@ analytics:
 author:
   name             : "Swapnil S. Mane"
   avatar           : "profile.jpg"
-  bio              : "PMRF Research Scholar at Indian Institute of Technology, Jodhpur"
-  location         : "IIT Jodhpur, India"
+  bio              : "Postdoc @ IIT Madras | PhD @ IIT Jodhpur | PMRF Fellow"
+  location         : "IIT Madras, India"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=emuoEVkAAAAJ&hl=en"
   email            : "mane.1@iitj.ac.in"
-  researchgate     : "https://www.researchgate.net/profile/Swapnil-Mane-10"
+  researchgate     :
   uri              :
   bitbucket        :
   codepen          :
@@ -103,7 +103,7 @@ author:
   flickr           :
   facebook         : 
   foursquare       :
-  github           : "SwapnilSMane"
+  github           :
   google_plus      :
   keybase          :
   instagram        :
@@ -119,8 +119,8 @@ author:
   twitter          :
   vine             :
   weibo            :
-  xing             :
-  youtube          :
+  xing             : 
+  youtube          : "@swapnilmane-iitj"
   wikipedia        :
 
 
