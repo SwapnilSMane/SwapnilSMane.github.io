@@ -9,7 +9,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Swapnil S Mane"
+title                    : "Swapnil S Mane, Ph.D."
 title_separator          : "-"
 name                     : &name "Swapnil S Mane"
 description              : &description "PhD Research Scholar at Indian Institute of Technology, Jodhpur"
@@ -87,10 +87,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Swapnil S Mane"
+  name             : "Swapnil S Mane, Ph.D."
   avatar           : "profile.jpg"
-  bio              : "Postdoc @ IIT Madras | PhD @ IIT Jodhpur | PMRF Fellow"
-  location         : "IIT Madras, India"
+  bio              : "Visiting Faculty @ IIT Madras Zanzibar | Postdoc @ IIT Madras"
+  location         : "IIT Madras Zanzibar, Tanzania"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=emuoEVkAAAAJ&hl=en"
